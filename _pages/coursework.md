@@ -8,10 +8,14 @@ redirect_from:
   - /courses.html
 ---
 
-## PhD Level Courses
-
-
-## Master Level Courses: Uppsala University 
+## Uppsala university
+- FTN0061 Statistical Machine Learning 5 ECTS
+- 1MA215 Integration Theory 10 ECTS
+- Adaptive Dynamics 3 ECTS
+- Coarse graining and Kinetic models 5 ECTS
+- Modelling social systems 10 ECTS
+- Evolutionary Genetics 5 credits
+- 460F006 Research Ethics for Science and Technology 2 ECTS
 - 1MS012 Markov processes 10 ECTS
 - 1MA256 Modelling Complex Systems 10 ECTS
 - 1MA060 Applied Mathematics 10 ECTS
@@ -19,12 +23,6 @@ redirect_from:
 - 1MS026 Applied Statistics 10 ECTS
 - 1MS014 Analysis of Time Series 10 ECTS
 - 1MS027 Statistical Risk Analysis 10 ECTS
-
-## Master Level Courses: Technische Universität München
-- Mathematical Ecology 9 ECTS
-- Advanced Mathematical Biology 9 ECTS
-
-## Bachelor Level Courses: Uppsala university 
 - 1MA079 Degree Project C in Mathematics 15 ECTS
 - 1MA254 Mathematical Biology 5 ECTS
 - 1MA226 Real Analysis 10 ECTS  
@@ -43,8 +41,18 @@ redirect_from:
 - 1MA016 Several Variable Calculus 10 ECTS
 - 1MA024 Linear Algebra II 5 ECTS
 
+## Technische Universität München
+- Mathematical Ecology 9 ECTS
+- Advanced Mathematical Biology 9 ECTS
+
+
 
 ## Bachelor Level Courses: Lund University
+- MNXA09 Natural Science: The Scientific Method 7.5 ECTS
+- MATM13 Differential Geometry 7.5 ECTS
+- MATA14 Analysis 1 15 ECTS
+- MATA15 Algebra 1 15 ECTS 
+- FYSA11 Physics 1: General Physics  30 ECTS
 
 ## 
 
