@@ -8,11 +8,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-
+    
   - title: "Supervision"
     url: /supervision/
     
-   - title: "Coursework"
+  - title: "Coursework"
     url: /coursework/
 
   - title: "CV"
