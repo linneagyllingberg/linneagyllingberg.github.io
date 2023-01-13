@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linnéa Gyllingberg"
 title_separator          : "-"
 name                     : &name "Linnéa Gyllingberg"
-description              : &description "PhD student in Applied mathematics and statistics"
+description              : &description "PhD candidate in Applied Mathematics and Statistics, at Uppsala univeristy, Sweden"
 url                      : https://linneagyllingberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linneagyllingberg/linneagyllingberg.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Linnéa GYllingberg"
+  name             : "Linnéa Gyllingberg"
   avatar           : "profile.png"
-  bio              : "PhD student in Applied Mathematics and Statistics"
+  bio              : "PhD candidate in Applied Mathematics and Statistics"
   location         : "Uppsala"
   employer         : "Uppsala Univerisity"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
