@@ -13,7 +13,6 @@ I started as a teaching assistant during my third year as a bachelor student, an
 ---
 ### As lecturer and course responsible 
 - Transform methods (1MA034), Autumn 2018, (Course evaluation score: 4.7/5) [Syllabus](https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1MA034){:target="_blank"}
-- 
 - Transform methods (1MA034), Autumn 2017, (Course evaluation score: 4.9/5) [Syllabus](https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1MA034){:target="_blank"}
 
 ### As teaching assistant
