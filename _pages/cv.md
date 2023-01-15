@@ -18,11 +18,11 @@ Education
 Research Visits
 ======
 * Oct-Dec 2018: Research fellow at Mittag-Leffler Institute during the thematic semester for mathematical biology, Stockholm, Sweden
-* Mar-Jul 2017: Research visit at Imperial College London, UK (Collaboration with Pierre Degond and Sara Merino Aceituno)
+* Mar-Jul 2017: Research visit at Imperial College London, UK (Collaboration with [Pierre Degond](https://sites.google.com/site/degond/Home){:target="_blank"}, and [Sara Merino Aceituno](https://sites.google.com/view/saramerinoaceituno){:target="_blank"})
 
 Work experience
 ======
-* 2014: Analyst at Precis Digital, Stockholm, Sweden
+* 2014: Analyst at [Precis Digital](https://www.precisdigital.com/){:target="_blank"}, Stockholm, Sweden
   * Worked on Bayesian statistical modelling for price optimization of Google Ads
   
 Skills
