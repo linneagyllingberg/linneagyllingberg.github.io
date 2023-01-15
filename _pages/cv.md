@@ -28,7 +28,7 @@ Research Visits
 Work experience
 ======
 * Sep 2014 - Jan 2015: Analyst at [Precis Digital](https://www.precisdigital.com/){:target="_blank"}, Stockholm, Sweden
-  * Worked on Bayesian statistical modelling for price optimization of Google Ads
+  * Worked with Bayesian statistical modelling for price optimization of Google Ads
   
 Skills
 ======
