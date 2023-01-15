@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Mathematics and Statistics, Uppsala University, March 2024 (expected)
+* M.Sc. in Mathematics, Uppsala University, 2016
+* B.Sc. in Mathematics, Uppsala University, 2013
+
+Research Visits
+======
+* Oct-Dec 2018: Research fellow at Mittag-Leffler Institute during the thematic semester "Mathematical Biology", Stockholm, Sweden
+* Mar-Jul 2017: Research visit at Imperial College London, UK (Collaboration with Pierre Degond and Sara Merino Aceituno)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014: Analyst at Precis Digital, Stockholm, Sweden
+  * Worked on Bayesian statistical modelling for price optimization of Google Ads
   
 Skills
 ======
