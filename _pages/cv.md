@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Positions
+======
+* Ph.D student in Applied Mathematics and Statistics, Uppsala University, Sep 2016 - Current
+
 Education
 ======
 * Ph.D in Applied Mathematics and Statistics, Uppsala University, March 2024 (expected)
+* Licenciate degree in Applied Mathematics and Statistics, Uppsala University, October 2021
 * M.Sc. in Mathematics, Uppsala University, 2016
 * B.Sc. in Mathematics, Uppsala University, 2013
 
@@ -22,7 +27,7 @@ Research Visits
 
 Work experience
 ======
-* 2014: Analyst at [Precis Digital](https://www.precisdigital.com/){:target="_blank"}, Stockholm, Sweden
+* Sep 2014 - Jan 2015: Analyst at [Precis Digital](https://www.precisdigital.com/){:target="_blank"}, Stockholm, Sweden
   * Worked on Bayesian statistical modelling for price optimization of Google Ads
   
 Skills
@@ -52,6 +57,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
