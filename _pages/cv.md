@@ -30,15 +30,6 @@ Work experience
 * Sep 2014 - Jan 2015: Analyst at [Precis Digital](https://www.precisdigital.com/){:target="_blank"}, Stockholm, Sweden
   * Worked with Bayesian statistical modelling for price optimization of Google Ads
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
