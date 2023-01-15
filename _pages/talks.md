@@ -15,35 +15,33 @@ redirect_from:
 ---
 ## Talks and Presentations
 
-October 29, 2021, **Mathematical models of biological interactions**, *Licentiate seminar*, Uppsala University (Sweden).\
+October 29, 2021, **Mathematical models of biological interactions**, *Licentiate seminar*, Uppsala University (Sweden).
 
-March 12, 2019, **Deriving macroscopic equations for complex systems
-**, *The PDEs and applications seminar*, Uppsala University (Sweden).\
+March 12, 2019, **Deriving macroscopic equations for complex systems**, *The PDEs and applications seminar*, Uppsala University (Sweden).
 
 May 8, 2018, **From microscopic to macroscopic equations for
-suspensions of active particles**, *PhD student seminar*, Uppsala University (Sweden).\
+suspensions of active particles**, *PhD student seminar*, Uppsala University (Sweden).
 
 February 8, 2018, **A spatial model for the evolution of social behavior**, 
-*9th Workshop Dynamical Systems Applied to Biology and Natural Sciences (DSABNS)*,  Turin (Italy).\
+*9th Workshop Dynamical Systems Applied to Biology and Natural Sciences (DSABNS)*,  Turin (Italy).
 
-September 18, 2017, ** Spatial models of the evolution of social behaviour: Can helping and non-helping behaviour coexist?**, 
-*Conference on Complex Systems*, Cancun (Mexico).\
+September 18, 2017, **Spatial models of the evolution of social behaviour: Can helping and non-helping behaviour coexist?**, 
+*Conference on Complex Systems*, Cancun (Mexico).
 
-June 19, 2017, ** Spatial models of the evolution of social behaviour: Can helping and non-helping behaviour coexist?**, 
-*Imperial College London Society for Industrial and Applied Mathematics (SIAM) 3rd Annual Conference*, London (UK).\
+June 19, 2017, **Spatial models of the evolution of social behaviour: Can helping and non-helping behaviour coexist?**, 
+*Imperial College London Society for Industrial and Applied Mathematics (SIAM) 3rd Annual Conference*, London (UK).
 
 
 June 19, 2017, **The evolution of reproductive helping through resource competition**, 
-*8th Swedish Meeting on Mathematics in Biology,*, Gothenburg (Sweden).\
+*8th Swedish Meeting on Mathematics in Biology,*, Gothenburg (Sweden).
 
 
 November 8, 2016, **Spelteori — eller varför stans alla falafelvagnar står bredvid varandra**, 
-*Matematikseminariet,*, Uppsala University (Sweden).\
+*Matematikseminariet,*, Uppsala University (Sweden).
 
 
 ---
 ## Posters
 
-December 3-4, 2015, **The evolution of reproductive helping through resource competition
-**, *7th Swedish Meeting on Mathematics in Biology*, Uppsala (Sweden).\
+December 3-4, 2015, **The evolution of reproductive helping through resource competition**, *7th Swedish Meeting on Mathematics in Biology*, Uppsala (Sweden).
 
