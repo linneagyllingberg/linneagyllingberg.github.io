@@ -17,7 +17,7 @@ Education
 
 Research Visits
 ======
-* Oct-Dec 2018: Research fellow at Mittag-Leffler Institute during the thematic semester "Mathematical Biology", Stockholm, Sweden
+* Oct-Dec 2018: Research fellow at Mittag-Leffler Institute during the thematic semester for mathematical biology, Stockholm, Sweden
 * Mar-Jul 2017: Research visit at Imperial College London, UK (Collaboration with Pierre Degond and Sara Merino Aceituno)
 
 Work experience
