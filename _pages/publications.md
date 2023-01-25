@@ -5,12 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Pre-prints
+ **Linnea Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
+**The Lost Art of Mathematical Modelling**,
+*arXiv:2301.08559*,
+2023.\
+[arXiv](https://arxiv.org/abs/2301.08559){: .btn--research}{:target="_blank"}
 
-{% include base_path %}
+**Linnea Gyllingberg**, David J.T. Sumpter, Åke Brännström,
+**Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
+*arXiv:2301.08094*,
+2023.\
+[arXiv](https://arxiv.org/abs/2301.08094){: .btn--research}{:target="_blank"}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+
