@@ -15,7 +15,7 @@ Academic Positions
 
 Parental leave
 ======
-* I have two children, born January 2020 and November 2021.I was on pregnancy/maternity leave October 2019-December 2020 and October 2021-August 2022. 
+* I have two children, born January 2020 and November 2021. I was on pregnancy/maternity leave October 2019-December 2020 and October 2021-August 2022. 
 
 
 Education
