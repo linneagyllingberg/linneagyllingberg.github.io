@@ -26,4 +26,3 @@ November 2017, **Anna Maria Lundins Travel Scholarship,** Scholarship to fund re
 February 2017, **Anna Maria Lundins Travel Scholarship,** Scholarship to fund travel to Conference on Complex Systems in Cancún, Mexico
  
 September 2016, **Wilgott Stenholm Travel Scholarship,** Scholarship to fund 3 months research visit at Imperial College London
-
