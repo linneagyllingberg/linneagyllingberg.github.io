@@ -1,8 +1,5 @@
-main links links
+# main links links
 main:
-  - title: "Grants and Awards"
-    url: /grantsandawards/
-
   - title: "Publications"
     url: /publications/
     
@@ -11,15 +8,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    
+
   - title: "Supervision"
     url: /supervision/
-    
- # - title: "Coursework"
- #   url: /coursework/
 
-   - title: "CV"
-     url: /cv/
+  - title: "CV"
+    url: /cv/
 
   - title: "Contact"
     url: /contact/
