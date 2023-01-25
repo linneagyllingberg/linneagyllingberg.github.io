@@ -8,7 +8,7 @@ redirect_from:
   - /teach.html
 ---
 
-I started as a teaching assistant during my third year as a bachelor student, and have continued teaching throughout my PhD studies. I have.....
+I started as a teaching assistant during my third year as a bachelor student, and have continued teaching throughout my PhD studies. 
 
 ---
 ### As lecturer and course responsible 
