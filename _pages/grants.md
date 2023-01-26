@@ -6,12 +6,6 @@ author_profile: true
 redirect_from: 
   - /grantsandawards/
   - /grantsandawards
-  - /awards/
-  - /awards
-  - /grants/
-  - /grants
----
-  
 ---
 ## Grants and Awards
 
