@@ -8,7 +8,7 @@ redirect_from:
   - /teach.html
 ---
 
-I started as a teaching assistant during my third year as a bachelor student, and have continued teaching throughout my PhD studies. 
+I started as a teaching assistant during my third year as a bachelor student, and have continued teaching throughout my PhD studies. I have been course responsible and lecturer twice, and won a pedagogical prize for outstanding teaching in 2019. 
 
 ---
 ### As lecturer and course responsible 
