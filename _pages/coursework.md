@@ -8,7 +8,7 @@ redirect_from:
   - /courses.html
 ---
 
-## Uppsala university
+## Uppsala University
 - FTN0061 Statistical Machine Learning 5 ECTS
 - 1MA215 Integration Theory 10 ECTS
 - Adaptive Dynamics 3 ECTS
@@ -16,13 +16,14 @@ redirect_from:
 - Modelling social systems 10 ECTS
 - Evolutionary Genetics 5 credits
 - 460F006 Research Ethics for Science and Technology 2 ECTS
+- 1MA080, Degree Project E in Mathematics, 30 ECTS
 - 1MS012 Markov processes 10 ECTS
 - 1MA256 Modelling Complex Systems 10 ECTS
 - 1MA060 Applied Mathematics 10 ECTS
 - 1MA267 Selected Topics in Mathematics 10 ECTS
 - 1MS026 Applied Statistics 10 ECTS
 - 1MS014 Analysis of Time Series 10 ECTS
-- 1MS027 Statistical Risk Analysis 10 ECTS
+- 1MS027 Statistical Risk Analysis 5 ECTS
 - 1MA079 Degree Project C in Mathematics 15 ECTS
 - 1MA254 Mathematical Biology 5 ECTS
 - 1MA226 Real Analysis 10 ECTS  
@@ -45,15 +46,22 @@ redirect_from:
 - Mathematical Ecology 9 ECTS
 - Advanced Mathematical Biology 9 ECTS
 
-
-
-## Bachelor Level Courses: Lund University
+## Lund University
 - MNXA09 Natural Science: The Scientific Method 7.5 ECTS
 - MATM13 Differential Geometry 7.5 ECTS
 - MATA14 Analysis 1 15 ECTS
 - MATA15 Algebra 1 15 ECTS 
 - FYSA11 Physics 1: General Physics  30 ECTS
 
-## 
+## Courses in Linguistics 
+In addition to mathematics, biology, physics and computer science, I have also studied the following courses in linguistics at Uppsala University, University of Iceland and Helsinki University: 
+- Semantics and Pragmatics, 7.5 ECTS, Uppsala University
+- Danish and Norwegian, 7.5 ECTS, Uppsala University
+- Icelandic 1, 7.5 ECTS, Uppsala University
+- Scandinavian Languages A, 30 ECTS, Uppsala Univeristy
+- Kursus i islandsk sprog og kultur for nordiske studerende, 10 ECTS, University of Iceland
+- Kurs om finlandssvenskan som språk och den finlandssvenska litteraturen, 10 ECTS, Helsinki University
+
+
 
 
