@@ -1,12 +1,15 @@
 ---
-permalink: /coursework/
-title: "Coursework"
 layout: archive
+title: "Coursework"
+permalink: /cv/coursework/
 author_profile: true
-redirect_from: 
-  - /courses/
-  - /courses.html
+redirect_from:
+  - /coursework
+  - /courses
+  - /cv/courses
 ---
+
+Here is a list of courses I have taken during my Bachelor, Master, and PhD studies. 
 
 ## Uppsala University
 - FTN0061 Statistical Machine Learning, 5 ECTS
