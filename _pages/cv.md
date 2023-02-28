@@ -17,13 +17,16 @@ redirect_from:
 
 * I have two children, born January 2020 and November 2021. I was on pregnancy/maternity leave October 2019-December 2020 and October 2021-August 2022. 
 
-
 ## Education
 
 * Ph.D in Applied Mathematics and Statistics, Uppsala University, March 2024 (expected)
 * Licenciate degree in Applied Mathematics and Statistics, Uppsala University, October 2021
 * M.Sc. in Mathematics, Uppsala University, 2016
 * B.Sc. in Mathematics, Uppsala University, 2013
+
+## Coursework
+
+My study coursework (for Ph.D., Master and Bachelor level) is listed [here](/cv/coursework).
 
 ## Research Visits
 
