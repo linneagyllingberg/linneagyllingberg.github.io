@@ -26,7 +26,7 @@ redirect_from:
 
 ## Coursework
 
-My study coursework (for Ph.D., Master and Bachelor level) is listed [here](/cv/coursework).
+My coursework (for Ph.D., Master and Bachelor level) is listed [here](/cv/coursework).
 
 ## Research Visits
 
