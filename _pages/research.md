@@ -16,7 +16,7 @@ While mathematical models, in particular self-propelled particle (SPP) models, c
 
 ---
 
-## Spatial models of ecology and epidemology 
+## Spatial models in ecology and epidemology 
 
 
 Modelling geospatial transmission of the 
