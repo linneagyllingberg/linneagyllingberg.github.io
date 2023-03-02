@@ -17,11 +17,14 @@ While mathematical models, in particular self-propelled particle (SPP) models, c
 ---
 
 ## Spatial models in ecology and epidemology 
+Spatial structure is critically important to understand and model many aspects of ecology as well as epidemiology. 
 
-How can we model geospatial transmission of Modelling geospatial transmission of the 
+[comment]: # (In the following research projects I use spatial mathematical models to gain understanding)
+
+### Modelling transmission of the 
 
 ### Spatial models in ecology 
-How does space affect population dynamics of a model with intra-specific interaction? In the paper "Finding analytical approximations for discrete, stochastic, individual-based models of ecology" we study an individual based model of intra-specific interactions, inspired by the life cycle of many insects and microorganisms. The model is simple to state, yet it gives rise to complex spatial patterns as well as population dynamics. We show that a mean-field approach is not enough to capture the complex spatial dynamics of ecological competition. Instead, we develop two approximations to capture this complexity: one based on coupling on a larger scale and one based on an approximation on a very local scale. Our findings shed light on a common discrepancy between theoretical and empirical ecology: theoretical models, as suggested by May et al. (1974) often show chaotic behaviour, but in real ecological time series chaos is infrequent. This is joint work with [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"} and [Åke Brännström](https://www.umu.se/en/staff/ake-brannstrom/){: .btn--research}{:target="_blank"}
+How does space affect population dynamics of a model with intra-specific interaction? In the paper *Finding analytical approximations for discrete, stochastic, individual-based models of ecology* we study an individual based model of intra-specific interactions, inspired by the life cycle of many insects and microorganisms. The model is simple to state, yet it gives rise to complex spatial patterns as well as population dynamics. We show that a mean-field approach is not enough to capture the complex spatial dynamics of ecological competition. Instead, we develop two approximations to capture this complexity: one based on coupling on a larger scale and one based on an approximation on a very local scale. Our findings shed light on a common discrepancy between theoretical and empirical ecology: theoretical models, as suggested by May et al. (1974) often show chaotic behaviour, but in real ecological time series chaos is infrequent. This is joint work with [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"} and [Åke Brännström](https://www.umu.se/en/staff/ake-brannstrom/){: .btn--research}{:target="_blank"}
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
 **Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
