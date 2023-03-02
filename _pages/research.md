@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on developing and analysing mathematical models and methods for different biological applications. My research can roughly be divided into three categories: Collective Behaviour and intelligence, [Spatial models of ecology and epidemiology](#spatial-models-in-ecology-and-epidemiology) , and Philosophical aspects of mathematical modelling. 
+My research falls into three areas: [collective Behaviour and intelligence](#collective-behaviour-and-intelligence), [spatial models of ecology and epidemiology](#spatial-models-in-ecology-and-epidemiology), and [philosophical aspects of mathematical modelling](#philosophical-aspects-of-mathematical-modelling). 
 I am also interested in philosophical aspects of mathematical modelling, as well as the limitations of machine learning in mathematical biology. 
 
 ## Collective behaviour and intelligence
