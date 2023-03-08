@@ -25,7 +25,7 @@ This is joint work with [David Sumpter](https://www.katalog.uu.se/profile/?id=N7
 ---
 
 ## Spatial models in ecology and epidemiology 
-Spatial structure is critically important to understand and model many aspects of ecology as well as epidemiology. 
+Spatial structure is critically important to understand and model many aspects of ecology as well as epidemiology. There are many ways to model spatial structure; individual-based models, coupled map lattices, network models and partial differential equations are a few of them. In the following two projects, I use different types spatial models to capture and understand the Covid-19 spread in Uppsala County, as well as the role of space for intraspecific interactions.
 
 [comment]: # (In the following research projects I use spatial mathematical models to gain understanding)
 
@@ -47,7 +47,7 @@ How does space affect population dynamics of a model with intra-specific interac
 ---
 
 ## Philosophical aspects of mathematical modelling
-Biological systems are complex systems. This statement is so often made, that it can obscure just how radical the consequences of complexity are for the life sciences. 
+Biological systems are complex systems. This statement is so often made, that it can obscure just how radical the consequences of complexity are for the life sciences. In the paper *The Lost Art of Matheamatical Modelling* we discuss 
 
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
