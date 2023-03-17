@@ -10,16 +10,16 @@ My research falls into three areas: [collective behaviour and intelligence](#col
 
 ## Collective behaviour and intelligence
 
-In an ongoing project, I study the role of oscillations for learning in slime mould through mathematical models. 
-
 
 ### Using neuronal models to capture burst and glide motion and leadership in fish
-While mathematical models, in particular self-propelled particle (SPP) models, capture many of the observed properties of large fish schools, they do not always capture the interactions of smaller shoals. Nor do these models tend to account for the observation that, when swimming alone or in smaller groups, many species of fish use intermittent locomotion, often referred to as burst and coast or burst and glide. We propose a model of social burst and glide motion by combining a well-studied model of neuronal dynamics, the FitzHugh-Nagumo model, with a model of fish motion.  We begin by showing that the model can capture the motion of a single fish swimming down a channel. By then extending to a two fish model, where visual stimuli of the position of the other fish affects the internal burst or glide state of the fish, we find that our model captures a rich set of swimming dynamics found in many species of fish. These include: leader-follower behaviour; periodic changes in leadership; apparently random (i.e. chaotic) leadership change; and pendulum-like tit-for-tat turn taking. Unlike SPP models, which assume that fish move at a constant speed, the model produces realistic motion of individual fish. Moreover, unlike previous studies where a random component is used for leadership switching to occur, we show that leadership switching, both periodic and chaotic, can be the result of a deterministic interaction.  We give several empirically testable predictions on how fish interact and discuss our results in light of recently established correlations between fish locomotion and brain activity. 
+While mathematical models, in particular self-propelled particle (SPP) models, capture many of the observed properties of large fish schools, they do not always capture the interactions of smaller shoals. Nor do these models tend to account for the observation that, when swimming alone or in smaller groups, many species of fish use intermittent locomotion, often referred to as burst and coast or burst and glide. We propose a model of social burst and glide motion by combining a well-studied model of neuronal dynamics, the FitzHugh-Nagumo model, with a model of fish motion. 
+This is joint work with [Alex Szorkovsky](https://www.uio.no/ritmo/english/people/postdoctoral-fellows/alexansz/){: .btn--research}{:target="_blank"}, and  [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
+[comment]: # (We begin by showing that the model can capture the motion of a single fish swimming down a channel. By then extending to a two fish model, where visual stimuli of the position of the other fish affects the internal burst or glide state of the fish, we find that our model captures a rich set of swimming dynamics found in many species of fish. These include: leader-follower behaviour; periodic changes in leadership; apparently random (i.e. chaotic leadership change; and pendulum-like tit-for-tat turn taking. Unlike SPP models, which assume that fish move at a constant speed, the model produces realistic motion of individual fish. Moreover, unlike previous studies where a random component is used for leadership switching to occur, we show that leadership switching, both periodic and chaotic, can be the result of a deterministic interaction.  We give several empirically testable predictions on how fish interact and discuss our results in light of recently established correlations between fish locomotion and brain activity.)
 
 
 ### The role of oscillations for learning in slime moulds
-In a recently started project, 
-This is joint work with [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"} and [Yu Tian]( https://ytian.netlify.app/){: .btn--research}{:target="_blank"}.
+In a recently started project, we examine the role of oscillations for learning in slime through a mathematical model. 
+This is joint work with [Yu Tian]( https://ytian.netlify.app/){: .btn--research}{:target="_blank"} and [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
 
 
 ---
@@ -47,7 +47,8 @@ How does space affect population dynamics of a model with intra-specific interac
 ---
 
 ## Philosophical aspects of mathematical modelling
-Biological systems are complex systems. This statement is so often made, that it can obscure just how radical the consequences of complexity are for the life sciences. In the paper *The Lost Art of Matheamatical Modelling* we discuss 
+Biological systems are complex systems. This statement is so often made, that it can obscure just how radical the consequences of complexity are for the life sciences. In the paper *The Lost Art of Matheamatical Modelling* we provide a critique of mathematical biology in light of rapid developments in modern machine learning. We argue that out of the three modelling activities --- (1) formulating models; (2) analysing models; and (3) fitting or comparing models to data --- inherent to mathematical biology, researchers currently focus too much on activity (2) at the cost of (1). This trend, we propose, can be reversed by realising that any given biological phenomena can be modelled in an infinite number of different ways, through the adoption of an open/pluralistic approach. We explain the open approach using fish locomotion as a case study and illustrate some of the pitfalls --- universalism, creating models of models, etc. --- that hinder mathematical biology. We then ask how we might rediscover a lost art: that of creative mathematical modelling.  This is joint work with  [Abeba Birhane](https://abebabirhane.com/){: .btn--research}{:target="_blank"} and [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
+
 
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
