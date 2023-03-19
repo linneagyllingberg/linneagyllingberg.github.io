@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research falls into three areas: [collective behaviour and intelligence](#collective-behaviour-and-intelligence), [spatial models of ecology and epidemiology](#spatial-models-in-ecology-and-epidemiology), and [philosophical aspects of mathematical modelling and complex systems](#philosophical-aspects-of-mathematical-modelling).
+My research falls into three areas: [Collective behaviour and intelligence](#collective-behaviour-and-intelligence), [Spatial models of ecology and epidemiology](#spatial-models-in-ecology-and-epidemiology), and [Philosophical aspects of mathematical modelling and complex systems](#philosophical-aspects-of-mathematical-modelling).
 
 
 ## Collective behaviour and intelligence
@@ -49,7 +49,6 @@ How does space affect population dynamics of a model with intra-specific interac
 
 ## Philosophical aspects of mathematical modelling
 Biological systems are complex systems. This statement is so often made, that it can obscure just how radical the consequences of complexity are for the life sciences. In the paper *The Lost Art of Matheamatical Modelling* we provide a critique of mathematical biology in light of rapid developments in modern machine learning. We argue that out of the three modelling activities --- (1) formulating models; (2) analysing models; and (3) fitting or comparing models to data --- inherent to mathematical biology, researchers currently focus too much on activity (2) at the cost of (1). This trend, we propose, can be reversed by realising that any given biological phenomena can be modelled in an infinite number of different ways, through the adoption of an open/pluralistic approach. We explain the open approach using fish locomotion as a case study and illustrate some of the pitfalls --- universalism, creating models of models, etc. --- that hinder mathematical biology. We then ask how we might rediscover a lost art: that of creative mathematical modelling.  This is joint work with  [Abeba Birhane](https://abebabirhane.com/){: .btn--research}{:target="_blank"} and [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
-
 
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
