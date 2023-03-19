@@ -15,6 +15,10 @@ redirect_from:
 ---
 ## Talks and Presentations
 
+March 9, 2023, **Slime moulds - brainless, not stupid**, *Micro seminar, Division of Systems and Control*, Uppsala University (Sweden)
+
+March 8, 2023, **Slime moulds - brainless, not stupid**, *AI4Research seminar*, Uppsala University (Sweden)
+
 October 29, 2021, **Mathematical models of biological interactions**, *Licentiate seminar*, Uppsala University (Sweden).
 
 March 12, 2019, **Deriving macroscopic equations for complex systems**, *The PDEs and applications seminar*, Uppsala University (Sweden).
