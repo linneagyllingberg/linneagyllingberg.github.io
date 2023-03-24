@@ -12,12 +12,13 @@ My research falls into three areas: [Collective behaviour and intelligence](#col
 
 
 ### Using neuronal models to capture burst and glide motion and leadership in fish
-![](/images/fishdynamics.png)
+
 While mathematical models, in particular self-propelled particle (SPP) models, capture many of the observed properties of large fish schools, they do not always capture the interactions of smaller shoals. Nor do these models tend to account for the observation that, when swimming alone or in smaller groups, many species of fish use intermittent locomotion, often referred to as burst and coast or burst and glide. We propose a model of social burst and glide motion by combining a well-studied model of neuronal dynamics, the FitzHugh-Nagumo model, with a model of fish motion. 
 This is joint work with [Alex Szorkovsky](https://www.uio.no/ritmo/english/people/postdoctoral-fellows/alexansz/){: .btn--research}{:target="_blank"}, and  [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
 
 [comment]: # (We begin by showing that the model can capture the motion of a single fish swimming down a channel. By then extending to a two fish model, where visual stimuli of the position of the other fish affects the internal burst or glide state of the fish, we find that our model captures a rich set of swimming dynamics found in many species of fish. These include: leader-follower behaviour; periodic changes in leadership; apparently random i.e. chaotic leadership change; and pendulum-like tit-for-tat turn taking. Unlike SPP models, which assume that fish move at a constant speed, the model produces realistic motion of individual fish. Moreover, unlike previous studies where a random component is used for leadership switching to occur, we show that leadership switching, both periodic and chaotic, can be the result of a deterministic interaction.  We give several empirically testable predictions on how fish interact and discuss our results in light of recently established correlations between fish locomotion and brain activity.)
 
+![](/images/fishdynamics.png)
 
 ### The role of oscillations for learning in slime moulds
 In a recently started project, we examine the role of oscillations for learning in slime through a mathematical model. 
@@ -37,8 +38,10 @@ This is joint work with [Georgios Varotsis](https://www.katalog.uu.se/empinfo/?i
 
 
 ### Spatial models in ecology - analytical approximations of individual based models of ecology
-![](/images/approx_image.png)
+
 How does space affect population dynamics of a model with intra-specific interaction? In the paper *Finding analytical approximations for discrete, stochastic, individual-based models of ecology* we study an individual based model of intra-specific interactions, inspired by the life cycle of many insects and microorganisms. The model is simple to state, yet it gives rise to complex spatial patterns as well as population dynamics. We show that a mean-field approach is not enough to capture the complex spatial dynamics of ecological competition. Instead, we develop two approximations to capture this complexity: one based on coupling on a larger scale and one based on an approximation on a very local scale. Our findings shed light on a common discrepancy between theoretical and empirical ecology: theoretical models, as suggested by May et al. (1974) often show chaotic behaviour, but in real ecological time series chaos is infrequent. This is joint work with [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"} and [Åke Brännström](https://www.umu.se/en/staff/ake-brannstrom/){: .btn--research}{:target="_blank"}.
+
+![](/images/approx_image.png)
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
 **Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
