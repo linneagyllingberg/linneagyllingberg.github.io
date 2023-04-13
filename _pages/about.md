@@ -15,3 +15,15 @@ I am a Ph.D. candidate in applied mathematics at [Uppsala University](https://ww
 [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}. I am a part of the [Department of Mathematics](https://www.math.uu.se/?languageId=1){:target="_blank"} as well as the [Division of Systems and Control](https://www.it.uu.se/about_us/divisions/systems_and_control){:target="_blank"}.
 
 My research focuses on developing and analysing mathematical models and methods for different biological applications. I use dynamical systems, network models and agent-based modelling as well as statistical methods to understand collective behaviour, desicion making and complex systems. 
+
+---
+## Latest research results and news
+
+**April 12, 2023, Travel Grant**: I have received the Knut and Alice Wallenberg travel grant from the [Swedish Mathematical Society](https://www.swe-math-soc.se/){:target="_blank"}. The grant will partially fund my participation in the [Santa Fe Institute Symposium Collective Intelligence](https://santafe.edu/info/collective-intelligence-2023/about){:target="_blank"}.
+
+**March 29, 2023, Presentation accepted**: I got a poster presentation accepted at the  [Santa Fe Institute Symposium Collective Intelligence](https://santafe.edu/info/collective-intelligence-2023/about){:target="_blank"} June 19-23, 2023. 
+
+**March 21, 2023, Contributed talk accepted**: I got a contributed talk accepted at the workshop [Collective Behaviour](https://www.newton.ac.uk/event/mmvw02/){:target="_blank"} at Isaac Newton Institute, Cambridge, UK, August 7-11, 2023. 
+
+**March 13, 2023, Travel Grant**: I have received Liljewalchs travel grant. The grant will partially fund my participation in the [Santa Fe Institute Symposium Collective Intelligence](https://santafe.edu/info/collective-intelligence-2023/about){:target="_blank"}.
+
