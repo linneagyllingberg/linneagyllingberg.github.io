@@ -9,9 +9,9 @@ redirect_from:
 ---
 ## Grants and Awards
 
-April 2023, **Knut and Alice Wallenberg Travel Grant**, Scholarship to partially fund travel to the workshop Collective Intelligence, Santa Fe Institute of Complex Systems, New Mexico, US. 
+April 2023, **Knut and Alice Wallenberg Travel Grant**, Scholarship to partially fund travel to the workshop Collective Intelligence, Santa Fe Institute, New Mexico, US. 
 
-March 2023, **Liljewalchs Travel Grant**, Scholarship to partially fund travel to the workshop Collective Intelligence, Santa Fe Institute of Complex Systems, New Mexico, US. 
+March 2023, **Liljewalchs Travel Grant**, Scholarship to partially fund travel to the workshop Collective Intelligence, Santa Fe Institute, New Mexico, US. 
 
 November 2019, **Awarded Uppsala Electrical Engineering Students Pedagogical Prize for oustanding teaching**.
 
