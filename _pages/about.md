@@ -19,6 +19,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**June 27, 2023, Paper published**: Our paper [The lost art of mathematical modelling](https://doi.org/10.1016/j.mbs.2023.109033){:target="_blank"} is now published in Mathematical Biosciences. 
+
 **April 12, 2023, Travel Grant**: I have received the Knut and Alice Wallenberg travel grant from the [Swedish Mathematical Society](https://www.swe-math-soc.se/){:target="_blank"}. The grant will partially fund my participation in the [Santa Fe Institute Symposium Collective Intelligence](https://santafe.edu/info/collective-intelligence-2023/about){:target="_blank"}.
 
 **March 29, 2023, Presentation accepted**: I got a poster presentation accepted at the  [Santa Fe Institute Symposium Collective Intelligence](https://santafe.edu/info/collective-intelligence-2023/about){:target="_blank"} June 19-23, 2023. 
