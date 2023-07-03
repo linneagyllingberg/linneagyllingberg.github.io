@@ -6,13 +6,13 @@ author_profile: true
 ---
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
-*To appear in Mathematical Biosciences*,
+*Mathematical Biosciences*,
 2023.\
-[arXiv](https://arxiv.org/abs/2301.08559){: .btn--research}{:target="_blank"}
+[link](https://doi.org/10.1016/j.mbs.2023.109033){: .btn--research}{:target="_blank"}
 
  **Linnéa Gyllingberg**, Alex Szorkovszky, David J.T. Sumpter,
 **Using neuronal models to capture burst and glide motion and leadership in fish**,
-*arXiv:2304.00727, in review*,
+*To appear in Journal of the Royal Society Interface*,
 2023.\
 [arXiv](https://arxiv.org/abs/2304.00727){: .btn--research}{:target="_blank"}
 
