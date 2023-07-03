@@ -19,6 +19,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**June 28, 2023, Paper accepted**: Our paper "Using neuronal models to capture burst and glide motion and leadership in fish" has been accepted to Journal of the Royal Society Interface. 
+
 **June 27, 2023, Paper published**: Our paper [The lost art of mathematical modelling](https://doi.org/10.1016/j.mbs.2023.109033){:target="_blank"} is now published in Mathematical Biosciences. 
 
 **April 12, 2023, Travel Grant**: I have received the Knut and Alice Wallenberg travel grant from the [Swedish Mathematical Society](https://www.swe-math-soc.se/){:target="_blank"}. The grant will partially fund my participation in the [Santa Fe Institute Symposium Collective Intelligence](https://santafe.edu/info/collective-intelligence-2023/about){:target="_blank"}.
