@@ -20,7 +20,7 @@ redirect_from:
 ## Education
 
 * Ph.D in Applied Mathematics and Statistics, Uppsala University, March 2024 (expected)
-* Licenciate degree in Applied Mathematics and Statistics, Uppsala University, October 2021
+* Licentiate degree in Applied Mathematics and Statistics, Uppsala University, October 2021
 * M.Sc. in Mathematics, Uppsala University, 2016
 * B.Sc. in Mathematics, Uppsala University, 2013
 
