@@ -12,9 +12,9 @@ author_profile: true
 
  **Linnéa Gyllingberg**, Alex Szorkovszky, David J.T. Sumpter,
 **Using neuronal models to capture burst and glide motion and leadership in fish**,
-*To appear in Journal of the Royal Society Interface*,
+*Journal of the Royal Society Interface*,
 2023.\
-[arXiv](https://arxiv.org/abs/2304.00727){: .btn--research}{:target="_blank"}
+[link](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212){: .btn--research}{:target="_blank"}
 
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
