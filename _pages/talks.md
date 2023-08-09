@@ -15,6 +15,8 @@ redirect_from:
 ---
 ## Talks and Presentations
 
+August 8, 2023, **Using neuronal models to capture burst-and-glide motion and leadership in fish**, *Workshop on Collective Behaviour, Isaac Newton Institute for Mathematical Sciences*, Cambridge (UK)
+
 April 4, 2023, **Neuronal models of collective behaviour: capturing burst and glide motion and leadership in fish**, *Complex Systems Seminar, Centre for Interdisciplinary Mathematics*, Uppsala University (Sweden)
 
 March 9, 2023, **Slime moulds - brainless, not stupid**, *Micro seminar, Division of Systems and Control*, Uppsala University (Sweden)
