@@ -17,11 +17,11 @@ While mathematical models, in particular self-propelled particle (SPP) models, c
 This is joint work with [Alex Szorkovsky](https://www.uio.no/ritmo/english/people/postdoctoral-fellows/alexansz/){: .btn--research}{:target="_blank"}, and  [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
 
 
- **Linnéa Gyllingberg**, Alex Szorkovszky, David J.T. Sumpter,
+**Linnéa Gyllingberg**, Alex Szorkovszky, David J.T. Sumpter,
 **Using neuronal models to capture burst and glide motion and leadership in fish**,
-*arXiv:2304.00727*,
+*Journal of the Royal Society Interface*,
 2023.\
-[arXiv](https://arxiv.org/abs/2304.00727){: .btn--research}{:target="_blank"}
+[link](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212){: .btn--research}{:target="_blank"}
 
 
 
@@ -67,7 +67,6 @@ Biological systems are complex systems. This statement is so often made, that it
 
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
-*arXiv:2301.08559*,
+*Mathematical Biosciences*,
 2023.\
-[arXiv](https://arxiv.org/abs/2301.08559){: .btn--research}{:target="_blank"}
-
+[link](https://doi.org/10.1016/j.mbs.2023.109033){: .btn--research}{:target="_blank"}
