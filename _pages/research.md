@@ -38,7 +38,7 @@ This is joint work with [Yu Tian]( https://ytian.netlify.app/){: .btn--research}
 ---
 
 ## Spatial models in ecology and epidemiology 
-Spatial structure is critically important to understand and model many aspects of ecology as well as epidemiology. There are many ways to model spatial structure; individual-based models, coupled map lattices, network models and partial differential equations are a few of them. In the following two projects, I use different types spatial models to capture and understand the Covid-19 spread in Uppsala County, as well as the role of space for intraspecific interactions.
+Spatial structure is critically important to understand and model many aspects of ecology as well as epidemiology. There are many ways to model spatial structure; individual-based models, coupled map lattices, network models and partial differential equations are a few of them. In the following two projects, I use different types of spatial models to capture and understand the Covid-19 spread in Uppsala County, as well as the role of space for intraspecific interactions.
 
 [comment]: # (In the following research projects I use spatial mathematical models to gain understanding)
 
