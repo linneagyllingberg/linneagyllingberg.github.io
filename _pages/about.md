@@ -19,6 +19,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**September 24, 2023, Paper accepted**: Our paper "Finding analytical approximations for discrete, stochastic, individual-based models of ecology" has been accepted to Mathematical Biosciences. 
+
 **July 19, 2023, Paper published**: Our paper  [Using neuronal models to capture burst and glide motion and leadership in fish](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212#d1e3152){:target="_blank"} is now published in Journal of the Royal Society Interface. 
 
 **June 28, 2023, Grant Winner**: I was selected to win a £1200 grant from [G-Research](https://www.gresearch.com/blog/article/g-research-june-2023-grant-winners/){:target="_blank"}, to partially fund a research visit to Professor Mason A. Porter at University of California, Los Angeles
