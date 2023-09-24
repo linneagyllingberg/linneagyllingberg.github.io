@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+**Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
+**Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
+*Accepted to Mathematical Biosciences*,
+2023.\
+[arXiv](https://arxiv.org/abs/2301.08094){: .btn--research}{:target="_blank"}
+
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
 *Mathematical Biosciences*,
@@ -17,11 +24,6 @@ author_profile: true
 [link](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212){: .btn--research}{:target="_blank"}
 
 
-**Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
-**Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
-*arXiv:2301.08094, in review*,
-2023.\
-[arXiv](https://arxiv.org/abs/2301.08094){: .btn--research}{:target="_blank"}
 
 
 
