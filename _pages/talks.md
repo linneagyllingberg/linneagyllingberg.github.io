@@ -53,5 +53,7 @@ November 8, 2016, **Spelteori — eller varför stans alla falafelvagnar står b
 ---
 ## Posters
 
+June 19-23, 2023, **The lost art of mathematical modelling** *Collective Intelligence Symposium, Santa Fe Institute*, New Mexico (US): 
+
 December 3-4, 2015, **The evolution of reproductive helping through resource competition**, *7th Swedish Meeting on Mathematics in Biology*, Uppsala (Sweden).
 
