@@ -7,9 +7,9 @@ author_profile: true
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
 **Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
-*Accepted to Mathematical Biosciences*,
+*Mathematical Biosciences*,
 2023.\
-[arXiv](https://arxiv.org/abs/2301.08094){: .btn--research}{:target="_blank"}
+[link](https://www.sciencedirect.com/science/article/pii/S0025556423001244){: .btn--research}{:target="_blank"}
 
  **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
 **The Lost Art of Mathematical Modelling**,
