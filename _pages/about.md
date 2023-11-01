@@ -19,6 +19,12 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+
+**October 12, 2023, Paper published**: Our paper [Finding analytical approximations for discrete, stochastic, individual-based models of ecology](https://www.sciencedirect.com/science/article/pii/S0025556423001244){:target="_blank"} is now published in Mathematical Biosciences. 
+
+**September 27, 2023, Contributed talk accepted:** I got a contributed talk accepted at the workshop [Data-driven mechanistic mathematical modelling for life-science applications](https://www.chalmers.se/en/current/calendar/mv-data-driven-mechanistic-mathematical-modelling-for-life-science-applications/){:target="_blank"} at Chalmers University, Gothenburg, Sweden, October 23-24, 2023. 
+
+
 **September 24, 2023, Paper accepted**: Our paper "Finding analytical approximations for discrete, stochastic, individual-based models of ecology" has been accepted to Mathematical Biosciences. 
 
 **July 19, 2023, Paper published**: Our paper  [Using neuronal models to capture burst and glide motion and leadership in fish](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212#d1e3152){:target="_blank"} is now published in Journal of the Royal Society Interface. 
