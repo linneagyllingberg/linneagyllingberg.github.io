@@ -19,6 +19,7 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**December 14, 2023, Poster presentation** I presented the poster "The lost art of mathematical modelling -- How should we do mathematical modelling in the machine learning era?" at the AI4Research Annual Workshop at Uppsala University, Sweden.
 
 **October 12, 2023, Paper published**: Our paper [Finding analytical approximations for discrete, stochastic, individual-based models of ecology](https://www.sciencedirect.com/science/article/pii/S0025556423001244){:target="_blank"} is now published in Mathematical Biosciences. 
 
