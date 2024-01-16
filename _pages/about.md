@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 
 ---
 ## Latest research results and news
+**January, 2024, Research visit**: I visited Professor Mason Porter's research group at UCLA. 
+
 **Decemeber 20, 2023, Grant Award**: I have been honored with the O.Andrén Grant, presented to PhD students at Uppsala University for their intelligence, dedication to work, and good conduct, ensuring the surest prospects for future contributions to science.
 
 **December 14, 2023, Poster presentation**: I presented the poster "The lost art of mathematical modelling – How should we do mathematical modelling in the machine learning era?" at the AI4Research Annual Workshop at Uppsala University, Sweden.
