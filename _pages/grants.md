@@ -16,6 +16,7 @@ December 2023, **Sederholm Travel Grant**, 29,000 SEK, to fund a research visit 
 December 2023, **Knigge Travel Grant**, 2,500 SEK, to partially fund participation in the workshop "Data-driven mechanistic mathematical modeling for life-science applications" at Chalmers University, Gothenburg, Sweden.
 
 December 2023, **Zandréns Grant**, 15,000 SEK.
+
 June 2023, **G-Research grant for early career researchers**, 1200 GBP, to fund travel to visit Professor Mason A. Porter at University of California, Los Angeles, USA, January 2024
 
 May 2023,  **Tullbergs Grant for Biological Research**, 37100 SEK, to fund travel to visit Professor Mason A. Porter at University of California, Los Angeles, USA, January 2024
