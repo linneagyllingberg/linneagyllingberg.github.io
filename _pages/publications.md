@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Linnéa Gyllingberg**, Yu Tian, David J.T. Sumpter, **A minimal model of cognition based on oscillatory and reinforcement processes**, preprint, 204. \
+**Linnéa Gyllingberg**, Yu Tian, David J.T. Sumpter, **A minimal model of cognition based on oscillatory and reinforcement processes**, preprint, 2024. \
 [link](https://arxiv.org/abs/2402.02520){: .btn--research}{:target="_blank"}
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
