@@ -19,7 +19,10 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
-**Decemeber 20, 2023, Grant Award**: I have been honored with the O.Andrén Grant, presented to PhD students at Uppsala University for their intelligence, dedication to work, and good conduct, ensuring the surest prospects for future contributions to science.
+**February 6, 2024, New preprint**: Our paper "A minimal model of cognition based on oscillatory and reinforcement processes" is now [availabile](https://arxiv.org/abs/2402.02520){:target="_blank"}. This is joint work with [Yu Tian](https://ytian.netlify.app/){:target="_blank"} and David Sumpter.
+
+
+**Decemeber 20, 2023, Grant award**: I have been honored with the O.Andrén Grant, presented to PhD students at Uppsala University for their intelligence, dedication to work, and good conduct, ensuring the surest prospects for future contributions to science.
 
 **December 14, 2023, Poster presentation**: I presented the poster "The lost art of mathematical modelling – How should we do mathematical modelling in the machine learning era?" at the AI4Research Annual Workshop at Uppsala University, Sweden.
 
