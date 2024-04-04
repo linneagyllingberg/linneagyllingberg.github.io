@@ -19,6 +19,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**April 4, 2024, Seminar**: I will give a seminar online at the Collective Behviour seminar series. 
+
 **February 6, 2024, New preprint**: Our paper "A minimal model of cognition based on oscillatory and reinforcement processes" is now [availabile](https://arxiv.org/abs/2402.02520){:target="_blank"}. This is joint work with [Yu Tian](https://ytian.netlify.app/){:target="_blank"} and David Sumpter.
 
 
