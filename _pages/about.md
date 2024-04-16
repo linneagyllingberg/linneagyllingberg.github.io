@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in applied mathematics at [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"}, Sweden, advised by
+I have Ph.D. in applied mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"}, Sweden. I was advised by
 [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}. I am a part of the [Department of Mathematics](https://www.math.uu.se/?languageId=1){:target="_blank"} as well as the [Division of Systems and Control](https://www.it.uu.se/about_us/divisions/systems_and_control){:target="_blank"}.
 
 My research focuses on developing and analysing mathematical models and methods for different biological applications. I use dynamical systems, network models and agent-based modelling as well as statistical methods to understand collective behaviour, decision making and complex systems. 
