@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 
 ---
 ## Latest research results and news
+**April 22, 2024, Research Visit**: I am visiting [Dr. Audrey Dussutour's lab](http://dussutou.free.fr/){:target="_blank"} at the Research Center for Animal Cognition at CNRS, Toulouse this week. 
+
 **April 12, 2024, PhD in Applied Mathematics**: I have officially earned my PhD in Applied Mathematics! On the 12th of April, I successfully defended my PhD thesis "The Art of Modelling Oscillations and Feedback Across Biological Scales". The opponent was Professor Helen Byrne, from the University of Oxford.
 
 **April 4, 2024, Seminar**: I will give a seminar online at the Collective Behviour seminar series. 
