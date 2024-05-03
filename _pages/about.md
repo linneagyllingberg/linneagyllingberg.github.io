@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 
 ---
 ## Latest research results and news
+**May 3, 2024, KAW Mathematics Postdoctoral Grant Awarded**: I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to do a postdoc with Professor Mason Porter at UCLA. 
+
 **April 22, 2024, Research Visit**: I am visiting [Dr. Audrey Dussutour's lab](http://dussutou.free.fr/){:target="_blank"} at the Research Center for Animal Cognition at CNRS, Toulouse this week. 
 
 **April 12, 2024, PhD in Applied Mathematics**: I have officially earned my PhD in Applied Mathematics! On the 12th of April, I successfully defended my PhD thesis "The Art of Modelling Oscillations and Feedback Across Biological Scales". The opponent was Professor Helen Byrne, from the University of Oxford.
