@@ -10,6 +10,18 @@ My research falls into three areas: [Collective behaviour and intelligence](#col
 
 ## Collective behaviour and intelligence
 
+###
+
+Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential approach is to start by identifying models of basal cognition, which give an abstract representation of a range organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner. We identify connections between our model and basal cognition in biological systems and slime moulds, in particular, showing how oscillatory and problem-solving properties of these systems are captured by our model. 
+
+This is joint work with [Yu Tian]( https://ytian.netlify.app/){: .btn--research}{:target="_blank"} and [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
+
+**Linnéa Gyllingberg**, Yu Tian, David J.T. Sumpter,
+**A minimal model of cognition based on oscillatory and reinforcement processes**
+*ArXiv preprint*,
+[link](https://arxiv.org/abs/2402.02520){: .btn--research}{:target="_blank"}
+![](/images/slime_network.png)
+
 
 ### Using neuronal models to capture burst and glide motion and leadership in fish
 
@@ -29,10 +41,6 @@ This is joint work with [Alex Szorkovsky](https://www.uio.no/ritmo/english/peopl
 [comment]: # (We begin by showing that the model can capture the motion of a single fish swimming down a channel. By then extending to a two fish model, where visual stimuli of the position of the other fish affects the internal burst or glide state of the fish, we find that our model captures a rich set of swimming dynamics found in many species of fish. These include: leader-follower behaviour; periodic changes in leadership; apparently random i.e. chaotic leadership change; and pendulum-like tit-for-tat turn taking. Unlike SPP models, which assume that fish move at a constant speed, the model produces realistic motion of individual fish. Moreover, unlike previous studies where a random component is used for leadership switching to occur, we show that leadership switching, both periodic and chaotic, can be the result of a deterministic interaction.  We give several empirically testable predictions on how fish interact and discuss our results in light of recently established correlations between fish locomotion and brain activity.)
 
 ![](/images/fishdynamics.png)
-
-### The role of oscillations for learning in slime moulds
-In a recently started project, we examine the role of oscillations for learning in slime through a mathematical model. 
-This is joint work with [Yu Tian]( https://ytian.netlify.app/){: .btn--research}{:target="_blank"} and [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){: .btn--research}{:target="_blank"}.
 
 
 ---
@@ -55,9 +63,9 @@ How does space affect population dynamics of a model with intra-specific interac
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström,
 **Finding analytical approximations for discrete, stochastic, individual-based models of ecology**,
-*arXiv:2301.08094*,
+*Mathematical Biosciences*,
 2023.\
-[arXiv](https://arxiv.org/abs/2301.08094){: .btn--research}{:target="_blank"}
+[link](https://www.sciencedirect.com/science/article/pii/S0025556423001244){: .btn--research}{:target="_blank"}
 
 
 ---
