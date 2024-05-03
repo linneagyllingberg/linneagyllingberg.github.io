@@ -9,6 +9,8 @@ redirect_from:
 ---
 ## Grants and Awards
 
+February 2024, **STINT postdoctoral grant**, 1,200,000 SEK. Granted 1.2 Million SEK from [STINT](https://www.stint.se/en/program/stint-international-postdoc/){:target="_blank"} to do postdoctoral research at UCLA. (Offered Declined) 
+
 December 2023, **Awarded the O. Andréns Scholarship**, 25,000 SEK. This scholarship is awarded to a PhD student at Uppsala University "in view of their exceptional intelligence, dedication to work, and good conduct, showing the surest prospects for future benefit to science."
 
 December 2023, **Sederholm Travel Grant**, 29,000 SEK, to fund a research visit at Dr. Audrey Dussutour's lab at CNRS, Toulouse, in spring 2024.
