@@ -54,7 +54,8 @@ I started as a teaching assistant during my third year as a bachelor student, an
 - Single Variable Calculus,  (1MA013) Summer 2013, [Syllabus](https://https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45585&lasar=22%2F23&typ=1){:target="_blank"}
 
 ### Supervision 
-Alice Graf Brolund{:target="_blank"}, 2022
-Co-supervising with David Sumpter.
-Master thesis project: "Compartmental Models in Social Dynamics"
-thesis{: .btn--research}{:target="_blank"}
+[Alice Graf Brolund](https://www.linkedin.com/in/alice-graf-brolund-611683195/?originalSubdomain=se){:target="_blank"}, 2022\
+Co-supervising with David Sumpter.\
+Master thesis project: "Compartmental Models in Social Dynamics" \
+[thesis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1577103&dswid=-2491){: .btn--research}{:target="_blank"}
+
