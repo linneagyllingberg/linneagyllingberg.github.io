@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching and Supervision"
 layout: archive
 author_profile: true
 redirect_from: 
@@ -52,3 +52,9 @@ I started as a teaching assistant during my third year as a bachelor student, an
 - Algebra I (1MA004), Summer 2014, [Syllabus](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=47674){:target="_blank"}
 
 - Single Variable Calculus,  (1MA013) Summer 2013, [Syllabus](https://https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45585&lasar=22%2F23&typ=1){:target="_blank"}
+
+### Supervision 
+Alice Graf Brolund{:target="_blank"}, 2022
+Co-supervising with David Sumpter.
+Master thesis project: "Compartmental Models in Social Dynamics"
+thesis{: .btn--research}{:target="_blank"}
