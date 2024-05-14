@@ -18,6 +18,9 @@ My research focuses on developing and analysing mathematical models and methods 
 
 ---
 ## Latest research results and news
+
+**May 13, 2024, Invited talk**: I am an invited speaker at the [Brainnet+ 2024](https://brainnet2024.carrd.co/){:target="_blank"} and will give a talk entitled "Beyond Neurons: Modelling Basal Cognition in Slime Moulds". 
+
 **May 3, 2024, KAW Mathematics Postdoctoral Grant Awarded**: I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to do a postdoc with Professor Mason Porter at UCLA. 
 
 **April 22, 2024, Research Visit**: I am visiting [Dr. Audrey Dussutour's lab](http://dussutou.free.fr/){:target="_blank"} at the Research Center for Animal Cognition at CNRS, Toulouse this week. 
