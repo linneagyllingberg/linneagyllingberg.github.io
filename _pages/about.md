@@ -19,6 +19,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**May 20, 2024, Invited seminar**: I will give a seminar at the Integrated Science Lab at Umeå University on [Mathematical models of basal cognition](https://icelab.se/event/icelab-seminar-mathematical-models-of-basal-cognition/){:target="_blank"}. 
+
 **May 13, 2024, Invited talk**: I am an invited speaker at the [Brainnet+ 2024](https://brainnet2024.carrd.co/){:target="_blank"} and will give a talk entitled "Beyond Neurons: Modelling Basal Cognition in Slime Moulds". 
 
 **May 3, 2024, KAW Mathematics Postdoctoral Grant Awarded**: I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to do a postdoc with Professor Mason Porter at UCLA. 
