@@ -9,6 +9,8 @@ redirect_from:
 ---
 ## Grants and Awards
 
+April 2024, **KAW Mathematics Postdoctoral Grant**. I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to undertake a postdoc with Professor Mason Porter at UCLA. The KAW Postdoctoral Grant provides four years of funding: two years at UCLA and two years at a Swedish university.
+
 February 2024, **STINT postdoctoral grant**, 1,200,000 SEK. Granted 1.2 Million SEK from [STINT](https://www.stint.se/en/program/stint-international-postdoc/){:target="_blank"} to do postdoctoral research at UCLA. (Offered, Declined) 
 
 November 2023,  **Anna Maria Lundins Travel Scholarship**, 31 000 SEK, Scholarship to fund the "Lake Como School on Complex Networks: Theory, Methods, and Applications", Como, Italy, May 2024
