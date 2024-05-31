@@ -16,6 +16,7 @@ I started as a teaching assistant during my third year as a bachelor student, an
 - Transform methods (1MA034), Autumn 2017, (Course evaluation score: 4.9/5) [Syllabus](https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1MA034){:target="_blank"}
 
 ### As guest lecturer 
+- Mathematical Methods of Physics (1FA121), Spring 2024, [Syllabus](https://www.uu.se/en/study/syllabus?query=47828){:target"_blank"}
 - Modelling of Dynamic Systems (1RT155), Spring 2023, [Syllabus](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1RT155){:target="_blank"}
 
 ### As teaching assistant
