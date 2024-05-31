@@ -9,7 +9,9 @@ redirect_from:
 ---
 ## Grants and Awards
 
-February 2024, **STINT postdoctoral grant**, 1,200,000 SEK. Granted 1.2 Million SEK from [STINT](https://www.stint.se/en/program/stint-international-postdoc/){:target="_blank"} to do postdoctoral research at UCLA. (Offered Declined) 
+February 2024, **STINT postdoctoral grant**, 1,200,000 SEK. Granted 1.2 Million SEK from [STINT](https://www.stint.se/en/program/stint-international-postdoc/){:target="_blank"} to do postdoctoral research at UCLA. (Offered, Declined) 
+
+November 2023,  **Anna Maria Lundins Travel Scholarship**, 31 000 SEK, Scholarship to fund the "Lake Como School on Complex Networks: Theory, Methods, and Applications", Como, Italy, May 2024
 
 December 2023, **Awarded the O. Andréns Scholarship**, 25,000 SEK. This scholarship is awarded to a PhD student at Uppsala University "in view of their exceptional intelligence, dedication to work, and good conduct, showing the surest prospects for future benefit to science."
 
