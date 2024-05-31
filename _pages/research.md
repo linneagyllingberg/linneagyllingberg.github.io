@@ -10,7 +10,7 @@ My research falls into three areas: [Collective behaviour and intelligence](#col
 
 ## Collective behaviour and intelligence
 
-###
+### Mathematical models of minimal cognition
 
 Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential approach is to start by identifying models of basal cognition, which give an abstract representation of a range organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner. We identify connections between our model and basal cognition in biological systems and slime moulds, in particular, showing how oscillatory and problem-solving properties of these systems are captured by our model. 
 
