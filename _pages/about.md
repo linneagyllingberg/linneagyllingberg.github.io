@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Fulbright Scholar and Postdoctoral Scholar at the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA working with Professor [Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}. I have Ph.D. in applied mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"}, Sweden. I was advised by
+I am Fulbright Scholar and Postdoctoral Fellow at the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA working with Professor [Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}. I have Ph.D. in applied mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"}, Sweden. I was advised by
 [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
 
 
