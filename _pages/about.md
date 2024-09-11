@@ -11,10 +11,11 @@ redirect_from:
   - /about.html
 ---
 
-I have Ph.D. in applied mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"}, Sweden. I was advised by
-[David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}. I am a part of the [Department of Mathematics](https://www.math.uu.se/?languageId=1){:target="_blank"} as well as the [Division of Systems and Control](https://www.it.uu.se/about_us/divisions/systems_and_control){:target="_blank"}. **In September, I will start as postdoctoral scholar at the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA working with Professor [Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}.**
+I am Fulbright Scholar and Postdoctoral Scholar at the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA working with Professor [Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}. I have Ph.D. in applied mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"}, Sweden. I was advised by
+[David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
 
-My research focuses on developing and analysing mathematical models and methods for different biological applications. I use dynamical systems, network models and agent-based modelling as well as statistical methods to understand collective behaviour, decision making and complex systems. 
+
+My research focuses on developing and analysing mathematical models and methods for different biological applications. I use dynamical systems, network models and agent-based modelling as well as statistical methods to understand collective behaviour, decision making and complex systems. I am particularily interested in understading the role of oscillations and network dynamics in basal cognition. 
 
 ---
 ## Latest research results and news
