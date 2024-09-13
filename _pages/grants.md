@@ -8,8 +8,9 @@ redirect_from:
   - /grantsandawards
 ---
 ## Grants and Awards
+June 2024, **Lennanders 
 
-April 2024, **Fulbright Visisting Research Scholar**. Grant to support my research with Professor Mason Porter at UCLA. 
+April 2024, **Fulbright Research Scholar**, 63,000 SEK, Scholarship to fund visas and travel for a two-year postdoctoral fellowship with Professor Mason A. Porter at UCLA.
 
 April 2024, **KAW Mathematics Postdoctoral Grant**. I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to undertake a postdoc with Professor Mason Porter at UCLA. The KAW Postdoctoral Grant provides four years of funding: two years at UCLA and two years at a Swedish university.
 
