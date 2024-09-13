@@ -9,6 +9,8 @@ redirect_from:
 ---
 ## Grants and Awards
 
+April 2024, **Fulbright Visisting Research Scholar**. Grant to support my research with Professor Mason Porter at UCLA. 
+
 April 2024, **KAW Mathematics Postdoctoral Grant**. I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to undertake a postdoc with Professor Mason Porter at UCLA. The KAW Postdoctoral Grant provides four years of funding: two years at UCLA and two years at a Swedish university.
 
 March 2024, **Liljewalchs Travel Grant**, 25000 SEK, Scholarship to fund visit to [Dr. Anastasia Bizyaeva's lab](https://anastasiabzv.github.io/){:target="_blank"} at Cornell University next spring. 
