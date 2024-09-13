@@ -8,23 +8,23 @@ redirect_from:
   - /grantsandawards
 ---
 ## Grants and Awards
-June 2024, **Lennanders 
+June 2024, **Lennander's Foundation**, 300,000 SEK. To fund postdoctoral fellowship on mathematical epidemiology at Uppsala University. (Offered, Declined).
 
-April 2024, **Fulbright Research Scholar**, 63,000 SEK, Scholarship to fund visas and travel for a two-year postdoctoral fellowship with Professor Mason A. Porter at UCLA.
+April 2024, **Fulbright Research Scholar**, 63,000 SEK- Scholarship to fund visas and travel for a two-year postdoctoral fellowship with Professor Mason A. Porter at UCLA.
 
 April 2024, **KAW Mathematics Postdoctoral Grant**. I have been awarded the highly prestigous [Knut and Alice Wallenberg Mathematics Postdoctoral Grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"} to undertake a postdoc with Professor Mason Porter at UCLA. The KAW Postdoctoral Grant provides four years of funding: two years at UCLA and two years at a Swedish university.
 
-March 2024, **Liljewalchs Travel Grant**, 25000 SEK, Scholarship to fund visit to [Dr. Anastasia Bizyaeva's lab](https://anastasiabzv.github.io/){:target="_blank"} at Cornell University next spring. 
+March 2024, **Liljewalchs Travel Grant**, 25000 SEK. Scholarship to fund visit to [Dr. Anastasia Bizyaeva's lab](https://anastasiabzv.github.io/){:target="_blank"} at Cornell University next spring. 
 
 February 2024, **STINT postdoctoral grant**, 1,200,000 SEK. Granted 1.2 Million SEK from [STINT](https://www.stint.se/en/program/stint-international-postdoc/){:target="_blank"} to do postdoctoral research at UCLA. (Offered, Declined) 
 
-November 2023,  **Anna Maria Lundins Travel Scholarship**, 31 000 SEK, Scholarship to fund the "Lake Como School on Complex Networks: Theory, Methods, and Applications", Como, Italy, May 2024
+November 2023,  **Anna Maria Lundins Travel Scholarship**, 31 000 SEK. Scholarship to fund the "Lake Como School on Complex Networks: Theory, Methods, and Applications", Como, Italy, May 2024
 
 December 2023, **Awarded the O. Andréns Scholarship**, 25,000 SEK. This scholarship is awarded to a PhD student at Uppsala University "in view of their exceptional intelligence, dedication to work, and good conduct, showing the surest prospects for future benefit to science."
 
-December 2023, **Sederholm Travel Grant**, 29,000 SEK, to fund a research visit at Dr. Audrey Dussutour's lab at CNRS, Toulouse, in spring 2024.
+December 2023, **Sederholm Travel Grant**, 29,000 SEK. to fund a research visit at Dr. Audrey Dussutour's lab at CNRS, Toulouse, in spring 2024.
 
-December 2023, **Knigge Travel Grant**, 2,500 SEK, to partially fund participation in the workshop "Data-driven mechanistic mathematical modeling for life-science applications" at Chalmers University, Gothenburg, Sweden.
+December 2023, **Knigge Travel Grant**, 2,500 SEK. to partially fund participation in the workshop "Data-driven mechanistic mathematical modeling for life-science applications" at Chalmers University, Gothenburg, Sweden.
 
 December 2023, **Zandréns Grant**, 15,000 SEK.
 
