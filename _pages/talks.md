@@ -15,7 +15,9 @@ redirect_from:
 ---
 ## Talks and Presentations
 
-May 20, 2024, **Modelling Basal Cognition**. Invited speaker at *Icelab, Umeå University*, Umeå, (Sweden)
+June 14, 2024,  **Modelling Basal Cognition**, Invited seminar *Quantum@SUN Seminar Series at Stellenbosch University*, Stellenbosch (South Africa)
+
+May 20, 2024, **Modelling Basal Cognition**. Invited speaker at *Icelab, Umeå University*, Umeå (Sweden)
 
 May 13, 2024, **Beyond Neurons: Modelling Basal Cognition in Slime Moulds**. Invited speaker at *Brainnet+ workshop, Royal Institute of Technology,* Stockholm (Sweden)
 
