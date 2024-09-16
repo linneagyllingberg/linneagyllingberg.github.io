@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Linnéa Gyllingberg"
   avatar           : "linnea_new_square.jpg"
-  bio              : "PhD candidate in Applied Mathematics and Statistics"
-  location         : "Sweden"
-  employer         : "Uppsala Univerisity"
+  bio              : "Fulbright Scholar and Postdoctoral Fellow"
+  location         : "Los Angeles, US"
+  employer         : "Department of Mathematics, UCLA"
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "http://x.com/l_gyllingberg"
   vine             :
   weibo            :
   xing             :
