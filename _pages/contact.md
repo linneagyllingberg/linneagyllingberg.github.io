@@ -8,7 +8,5 @@ redirect_from:
   - /contacts
 ---
 
-**E-mail:** [linnea.gyllingberg@math,uu.se](mailto:linnea.gyllingberg@math.uu.se)\
-**Visiting address:** [Room 103154](https://link.mazemap.com/ISzJLtL1){:target="_blank"}, 
-[Ångströmlaboratoriet, hus 10 - 752 37 Uppsala](https://goo.gl/maps/EZumPhF7q7A2){:target="_blank"}\
-**Postal address:**  Box 480 - SE-751 05 Uppsala
+**E-mail:** [linnea@math,ucla.edu](mailto:linnea@math.ucla.edu)\
+**Visiting address:** Mathematical Science Building, Room 7354, 520 Portola Plaza, Los Angeles, CA 90095
