@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Fulbright Scholar and Postdoctoral Fellow in the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA, working with Professor [Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}. I hold a Ph.D. in Applied Mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.math.uu.se/research/cim/){:target="_blank"} in Sweden, where I was advised by [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
+I am a Fulbright Scholar and Postdoctoral Fellow in the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA, working with Professor [Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}. I hold a Ph.D. in Applied Mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.uu.se/en/department/mathematics/research/cim){:target="_blank"} in Sweden, where I was advised by [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
 
 My research focuses on developing and analysing mathematical models and methods for various biological applications. I use dynamical systems, network models, and agent-based modelling, as well as statistical methods, to understand collective behaviour, decision-making, and complex systems. I am particularly interested in understanding the role of oscillations and network dynamics in basal cognition.
 
