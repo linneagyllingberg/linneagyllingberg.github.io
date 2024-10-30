@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**September 9, 2024, IPAM Research Fellow**: I am very excited to begin as a Research Fellow in the [Mathematics of Intelligences Program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/){:target="_blank"} hosted by the Institute for Pure and Applied Mathematics (IPAM) at UCLA this semester.
+
 **June 14, 2024, Invited seminar**:  I will give an online seminar at the Quantum@SUN Seminar Series at Stellenbosch University on mathematical models of basal cognition.
 
 **May 20, 2024, Invited seminar**: I will give a seminar at the Integrated Science Lab at Umeå University on [Mathematical models of basal cognition](https://icelab.se/event/icelab-seminar-mathematical-models-of-basal-cognition/){:target="_blank"}. 
