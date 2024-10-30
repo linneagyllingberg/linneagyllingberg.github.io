@@ -24,10 +24,6 @@ redirect_from:
 * M.Sc. in Mathematics, Uppsala University, 2016
 * B.Sc. in Mathematics, Uppsala University, 2013
 
-## Coursework
-
-My coursework (for Ph.D., Master and Bachelor level) is listed [here](/cv/coursework).
-
 ## Research Visits
 
 * Oct-Dec 2018: Research fellow at Mittag-Leffler Institute during the thematic semester for mathematical biology, Stockholm, Sweden
