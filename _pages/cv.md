@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Academic Positions
-
-* Ph.D student in Applied Mathematics and Statistics, Uppsala University, Sep 2016 - Current
+* Postdoctoral Scholar, Department of Mathematics, University of California, Los Angeles, September 2024 - current
+* Ph.D student in Applied Mathematics and Statistics, Uppsala University, September 2016 - June 2024
 
 ## Parental leave
 
