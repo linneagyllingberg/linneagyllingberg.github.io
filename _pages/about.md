@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**November 5, 2024, Paper accepted**: Our paper "A minimal model of cognition based on oscillatory and current-based reinforcement processes" has been accepted to Journal of the Royal Society Interface. 
+
 **September 9, 2024, IPAM Research Fellow**: I am very excited to begin as a Research Fellow in the [Mathematics of Intelligences Program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/){:target="_blank"} hosted by the Institute for Pure and Applied Mathematics (IPAM) at UCLA this semester.
 
 **June 14, 2024, Invited seminar**:  I will give an online seminar at the Quantum@SUN Seminar Series at Stellenbosch University on mathematical models of basal cognition.
