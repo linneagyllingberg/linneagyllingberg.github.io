@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**January 22, 2025, Paper published**: Our paper  [A minimal model of cognition based on oscillatory and current-based reinforcement processes](https://https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0402){:target="_blank"} is now published in Journal of the Royal Society Interface. 
+
 **January 13–17, 2025, Workshop Attendance**: I am excited to attend the [Women in Mathematical Computational Biology workshop](https://icerm.brown.edu/program/topical_workshop/tw-25-wmcb){:target="_blank"} at The Institute for Computational and Experimental Research in Mathematics, Brown University. 
 
 **January 6-10, 2025, Poster presentation**: I will be presenting the poster "Oscillations and Adaptation: Mathematical Models of Non-Neural Cognition" at the [Biological Systems that Learn](https://www.nitmb.org/biological-systems-workshop){:target="_blank"} workshop hosted by the NSF-Simons National Institute for Theory and Mathematics in Biology in Chicago.
