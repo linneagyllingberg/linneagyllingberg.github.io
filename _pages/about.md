@@ -18,6 +18,10 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**April 7, 2025, Visit to Cornell Univeristy and Syracuse University**
+
+**March 15, 2025, Visit to UCSF and UC Merced**: I will be visiting and giving talks at the [Cell Geometry Lab at UCSF](https://cellgeometry.ucsf.edu/){:target="_blank"} and the [Department of Cognitive and Information Sciences at UC Merced](https://cogsci.ucmerced.edu/){:target="_blank"}! 
+
 **January 22, 2025, Paper published**: Our paper  [A minimal model of cognition based on oscillatory and current-based reinforcement processes](https://https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0402){:target="_blank"} is now published in Journal of the Royal Society Interface. 
 
 **January 13–17, 2025, Workshop Attendance**: I am excited to attend the [Women in Mathematical Computational Biology workshop](https://icerm.brown.edu/program/topical_workshop/tw-25-wmcb){:target="_blank"} at The Institute for Computational and Experimental Research in Mathematics, Brown University. 
