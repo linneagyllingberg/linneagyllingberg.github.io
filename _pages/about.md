@@ -18,7 +18,7 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
-**April 7, 2025, Visit to Cornell Univeristy and Syracuse University**
+**April 7, 2025, Visit to Cornell Univeristy and Syracuse University**: I will be visiting Cornell University and Syracuse University to give research talks and meet with collaborators.
 
 **March 15, 2025, Visit to UCSF and UC Merced**: I will be visiting and giving talks at the [Cell Geometry Lab at UCSF](https://cellgeometry.ucsf.edu/){:target="_blank"} and the [Department of Cognitive and Information Sciences at UC Merced](https://cogsci.ucmerced.edu/){:target="_blank"}! 
 
