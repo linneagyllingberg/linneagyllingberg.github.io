@@ -9,11 +9,11 @@ My research explores how biological systems learn, adapt, and make decisions thr
 In parallel, I’m interested in the philosophy of mathematical modeling and in how the scientific practice of mathematical biology shapes the kinds of questions we ask and the kinds of answers we allow.
 
 
-### Minimal cognition and learning across biological systems
+## Minimal cognition and learning across biological systems
 
 I develop mathematical models to explore how simple biological systems—both neural and non-neural—can exhibit learning-like behavior through internal dynamics such as oscillations, feedback, and adaptation. This line of research aims to understand the fundamental mechanisms underlying cognitive behaviour, from slime molds to brain organoids.
 
-## Mathematical models of minimal cognition
+### Mathematical models of minimal cognition
 Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential approach is to start by identifying models of basal cognition, which give an abstract representation of a range organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner. We identify connections between our model and basal cognition in biological systems and slime moulds, in particular, showing how oscillatory and problem-solving properties of these systems are captured by our model. 
 
 **Linnéa Gyllingberg**, Yu Tian, David J.T. Sumpter,
