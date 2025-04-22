@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/assets/cv_march2025.pdf" width="100%" height="800px"></iframe>
+<iframe src="/assets/CV_gyllingberg_April2025.pdf" width="100%" height="800px"></iframe>
