@@ -13,7 +13,7 @@ In parallel, I’m interested in the philosophy of mathematical modeling and in 
 
 I develop mathematical models to explore how simple biological systems—both neural and non-neural—can exhibit learning-like behavior through internal dynamics such as oscillations, feedback, and adaptation. This line of research aims to understand the fundamental mechanisms underlying cognitive behaviour, from slime molds to brain organoids.
 
-### Mathematical models of minimal cognition
+## Mathematical models of minimal cognition
 Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential approach is to start by identifying models of basal cognition, which give an abstract representation of a range organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner. We identify connections between our model and basal cognition in biological systems and slime moulds, in particular, showing how oscillatory and problem-solving properties of these systems are captured by our model. 
 
 **Linnéa Gyllingberg**, Yu Tian, David J.T. Sumpter,
@@ -32,14 +32,13 @@ In a new collaboration, I’m beginning to explore how brain organoids might dis
 
 
 
-
 ---
 
 ## Collective behavior and spatial modelling
 
 Many biological systems display collective or spatially structured behaviour that emerges from local interactions and feedback. I use mathematical models to investigate how these interactions give rise to coordination, pattern formation, and decision-making across scales—from neural dynamics in fish shoals to ecological competition and growth.
 
-## Using neuronal models to capture burst and glide motion and leadership in fish
+### Using neuronal models to capture burst and glide motion and leadership in fish
 While mathematical models, in particular self-propelled particle (SPP) models, capture many of the observed properties of large fish schools, they do not always capture the interactions of smaller shoals. Nor do these models tend to account for the observation that, when swimming alone or in smaller groups, many species of fish use intermittent locomotion, often referred to as burst and coast or burst and glide. We propose a model of social burst and glide motion by combining a well-studied model of neuronal dynamics, the FitzHugh-Nagumo model, with a model of fish motion.
 
 **Linnéa Gyllingberg**, Alex Szorkovszky, David J.T. Sumpter  
@@ -47,7 +46,7 @@ While mathematical models, in particular self-propelled particle (SPP) models, c
 [link](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212){: .btn--research}{:target="_blank"}  
 ![](/images/fishdynamics.png)
 
-## Finding analytical approximations for discrete, stochastic, individual-based models of ecology 
+### Finding analytical approximations for discrete, stochastic, individual-based models of ecology 
 We study an individual-based model of intra-specific interactions, inspired by the life cycle of many insects and microorganisms. We show that a mean-field approach is not enough to capture the complex spatial dynamics of ecological competition. Instead, we develop two approximations to capture this complexity: one based on coupling on a larger scale and one based on a very local scale.  
 
 **Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström  
