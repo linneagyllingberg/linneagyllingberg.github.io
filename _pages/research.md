@@ -22,11 +22,11 @@ Building mathematical models of brains is difficult because of the sheer complex
 [link](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0402){: .btn--research}{:target="_blank"}
 ![](/images/slime_network.png)
 
-**Non-neural pattern completion**  
+### Non-neural pattern completion 
 In ongoing work, I’m developing a non-spiking, biologically inspired reservoir model that demonstrates pattern completion in non-neural systems. The system is inspired by *Physarum polycephalum* and uses adaptive weights and homeostatic regulation to anticipate periodic input patterns without a trained output layer.  
 This project is in collaboration with [Polyphony Bruna](https://pjbruna.github.io/){: .btn--research}{:target="_blank"}.
 
-**Brain organoid dynamics**  
+### Brain organoid dynamics  
 In a new collaboration, I’m beginning to explore how brain organoids might display learning-like behavior during development, and how this relates to underlying network dynamics.
 
 
