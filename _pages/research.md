@@ -8,8 +8,6 @@ author_profile: true
 My research explores how biological systems learn, adapt, and make decisions through internal dynamics such as oscillations, feedback, and network interactions. I develop and analyze mathematical models using tools from dynamical systems, network theory, and agent-based approaches to study systems ranging from slime molds to brain organoids and to understand the principles of biological intelligence.
 In parallel, I’m interested in the philosophy of mathematical modeling and in how the scientific practice of mathematical biology shapes the kinds of questions we ask and the kinds of answers we allow.
 
-My research falls into three areas: [Collective behaviour and intelligence](#collective-behaviour-and-intelligence), [Spatial models of ecology and epidemiology](#spatial-models-in-ecology-and-epidemiology), and [Philosophical aspects of mathematical modelling and complex systems](#philosophical-aspects-of-mathematical-modelling).
-
 
 ### Minimal cognition and learning across biological systems
 
