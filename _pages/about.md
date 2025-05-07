@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**May 5, 2025, New preprint out**: Our preprint [Cognition without neurons: modelling anticipation in a basal reservoir computer](https://arxiv.org/abs/2505.02114){:target="_blank"} is up on arXiv! This is joint work with [Polyphony Bruna](https://pjbruna.github.io/){:target="_blank"}.
+
 **April 7, 2025, Visit to Cornell Univeristy and Syracuse University**: I will be visiting Cornell University and Syracuse University to give research talks and meet with collaborators.
 
 **March 15, 2025, Visit to UCSF and UC Merced**: I will be visiting and giving talks at the [Cell Geometry Lab at UCSF](https://cellgeometry.ucsf.edu/){:target="_blank"} and the [Department of Cognitive and Information Sciences at UC Merced](https://cogsci.ucmerced.edu/){:target="_blank"}! 
