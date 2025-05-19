@@ -1,4 +1,4 @@
----
+prestigous---
 permalink: /
 layout: archive
 title: ""
@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Fulbright Scholar and Postdoctoral Fellow in the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA. My postdoctoral position at UCLA is generously supported by the [Knut and Alice Wallenberg Foundation's prestigous mathematics grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"}, awarded to promote cutting-edge research in mathematics. I hold a Ph.D. in Applied Mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.uu.se/en/department/mathematics/research/cim){:target="_blank"} in Sweden, where I was advised by [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
+I am a Fulbright Scholar and Postdoctoral Fellow in the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA. My postdoctoral position at UCLA is generously supported by the [Knut and Alice Wallenberg Foundation's prestigious mathematics grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"}, awarded to promote cutting-edge research in mathematics. I hold a Ph.D. in Applied Mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.uu.se/en/department/mathematics/research/cim){:target="_blank"} in Sweden, where I was advised by [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
 
 My research focuses on developing and analysing mathematical models and methods for various biological applications. I use dynamical systems, network models, and agent-based modelling, as well as statistical methods, to understand collective behaviour, decision-making, and complex systems. I am particularly interested in understanding the role of oscillations and network dynamics in basal cognition.
 
@@ -20,11 +20,11 @@ My research focuses on developing and analysing mathematical models and methods 
 
 **May 5, 2025, New preprint out**: Our preprint [Cognition without neurons: modelling anticipation in a basal reservoir computer](https://arxiv.org/abs/2505.02114){:target="_blank"} is up on arXiv! This is joint work with [Polyphony Bruna](https://pjbruna.github.io/){:target="_blank"}.
 
-**April 7, 2025, Visit to Cornell Univeristy and Syracuse University**: I will be visiting Cornell University and Syracuse University to give research talks and meet with collaborators.
+**April 7, 2025, Visit to Cornell University and Syracuse University**: I will be visiting Cornell University and Syracuse University to give research talks and meet with collaborators.
 
 **March 15, 2025, Visit to UCSF and UC Merced**: I will be visiting and giving talks at the [Cell Geometry Lab at UCSF](https://cellgeometry.ucsf.edu/){:target="_blank"} and the [Department of Cognitive and Information Sciences at UC Merced](https://cogsci.ucmerced.edu/){:target="_blank"}! 
 
-**January 22, 2025, Paper published**: Our paper  [A minimal model of cognition based on oscillatory and current-based reinforcement processes](https://https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0402){:target="_blank"} is now published in Journal of the Royal Society Interface. 
+**January 22, 2025, Paper published**: Our paper  [A minimal model of cognition based on oscillatory and current-based reinforcement processes](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0402){:target="_blank"} is now published in Journal of the Royal Society Interface. 
 
 **January 13–17, 2025, Workshop Attendance**: I am excited to attend the [Women in Mathematical Computational Biology workshop](https://icerm.brown.edu/program/topical_workshop/tw-25-wmcb){:target="_blank"} at The Institute for Computational and Experimental Research in Mathematics, Brown University. 
 
@@ -49,10 +49,10 @@ My research focuses on developing and analysing mathematical models and methods 
 
 **April 4, 2024, Seminar**: I will give a seminar online at the Collective Behviour seminar series. 
 
-**February 6, 2024, New preprint**: Our paper "A minimal model of cognition based on oscillatory and reinforcement processes" is now [availabile](https://arxiv.org/abs/2402.02520){:target="_blank"}. This is joint work with [Yu Tian](https://ytian.netlify.app/){:target="_blank"} and David Sumpter.
+**February 6, 2024, New preprint**: Our paper "A minimal model of cognition based on oscillatory and reinforcement processes" is now [available](https://arxiv.org/abs/2402.02520){:target="_blank"}. This is joint work with [Yu Tian](https://ytian.netlify.app/){:target="_blank"} and David Sumpter.
 
 
-**Decemeber 20, 2023, Grant award**: I have been honored with the O.Andrén Grant, presented to PhD students at Uppsala University for their intelligence, dedication to work, and good conduct, ensuring the surest prospects for future contributions to science.
+**December 20, 2023, Grant award**: I have been honored with the O.Andrén Grant, presented to PhD students at Uppsala University for their intelligence, dedication to work, and good conduct, ensuring the surest prospects for future contributions to science.
 
 **December 14, 2023, Poster presentation**: I presented the poster "The lost art of mathematical modelling – How should we do mathematical modelling in the machine learning era?" at the AI4Research Annual Workshop at Uppsala University, Sweden.
 
