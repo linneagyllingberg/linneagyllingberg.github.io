@@ -1,4 +1,3 @@
-prestigous---
 permalink: /
 layout: archive
 title: ""
