@@ -18,6 +18,10 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**June 26, 2025, New preprint out**: Our preprint [A bibliometric study on mathematical oncology: interdisciplinarity, internationality, collaboration and trending topics](https://arxiv.org/pdf/2506.20684){:target="_blank"} is up on arXiv! This is joint work with [Sara Hamis](https://sarahamis.github.io/){:target="_blank"}, Kira Pugh, and Stanislav Stratiev.
+
+**May 15, 2025, Conference presentation:** I am presenting at the SIAM Dynamical Systems Conference in Denver!
+
 **May 5, 2025, New preprint out**: Our preprint [Cognition without neurons: modelling anticipation in a basal reservoir computer](https://arxiv.org/abs/2505.02114){:target="_blank"} is up on arXiv! This is joint work with [Polyphony Bruna](https://pjbruna.github.io/){:target="_blank"}.
 
 **April 7, 2025, Visit to Cornell University and Syracuse University**: I will be visiting Cornell University and Syracuse University to give research talks and meet with collaborators.
