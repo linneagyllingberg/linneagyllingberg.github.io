@@ -18,6 +18,8 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**November 4, 2025, New published paper:** Our paper [A bibliometric study on mathematical oncology: interdisciplinarity, internationality, collaboration and trending topics](https://link.springer.com/article/10.1007/s11538-025-01544-9){:target="_blank"} is now published in Bulletin of Mathematical Biology
+
 **June 26, 2025, New preprint out**: Our preprint [A bibliometric study on mathematical oncology: interdisciplinarity, internationality, collaboration and trending topics](https://arxiv.org/pdf/2506.20684){:target="_blank"} is up on arXiv! This is joint work with [Sara Hamis](https://sarahamis.github.io/){:target="_blank"}, Kira Pugh, and Stanislav Stratiev.
 
 **May 15, 2025, Conference presentation:** I am presenting at the SIAM Dynamical Systems Conference in Denver!
