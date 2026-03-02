@@ -18,6 +18,12 @@ My research focuses on developing and analysing mathematical models and methods 
 ---
 ## Latest research results and news
 
+**March 1, 2026, Minisymposium organisation:** Together with [Sara Hamis](https://sarahamis.github.io/){:target="_blank"} (Uppsala University), I am organising the minisymposium *Meta-Perspectives on Mathematical Biology* at the [European Conference on Mathematical and Theoretical Biology (ECMTB 2026)](https://ecmtb2026.org/){:target="_blank"}. The session explores how mathematical biology shapes, and is shaped by, policy-making, education, scientific publishing, and inclusive science communication.
+
+**February 23, 2026, Workshop presentation:** I presented our recent paper on the development of mathematical oncology as a field at the [Mathematics of Cancer: Open Mathematical Problems](https://www.ipam.ucla.edu/programs/workshops/mathematics-of-cancer-open-mathematical-problems/){:target="_blank"} workshop at the Institute for Pure and Applied Mathematics, analysing its structure, collaborations, and thematic evolution over the past 60 years.
+
+**February 17, 2026, Conference presentation:** I am super excited to be presenting at [NetSciX](https://netscix2026.github.io/){:target="_blank"} in Auckland! I will be talking about some ongoing work on modelling slime moulds and brain organoids. 
+
 **November 4, 2025, New published paper:** Our paper [A bibliometric study on mathematical oncology: interdisciplinarity, internationality, collaboration and trending topics](https://link.springer.com/article/10.1007/s11538-025-01544-9){:target="_blank"} is now published in Bulletin of Mathematical Biology
 
 **June 26, 2025, New preprint out**: Our preprint [A bibliometric study on mathematical oncology: interdisciplinarity, internationality, collaboration and trending topics](https://arxiv.org/pdf/2506.20684){:target="_blank"} is up on arXiv! This is joint work with [Sara Hamis](https://sarahamis.github.io/){:target="_blank"}, Kira Pugh, and Stanislav Stratiev.
