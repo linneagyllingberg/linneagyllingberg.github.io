@@ -24,7 +24,7 @@ My research focuses on developing and analysing mathematical models and methods 
 
 **February 23, 2026, Workshop presentation:** I presented our recent paper on the development of mathematical oncology as a field at the [Mathematics of Cancer: Open Mathematical Problems](https://www.ipam.ucla.edu/programs/workshops/mathematics-of-cancer-open-mathematical-problems/){:target="_blank"} workshop at the Institute for Pure and Applied Mathematics, analysing its structure, collaborations, and thematic evolution over the past 60 years.
 
-**February 17, 2026, Conference presentation:** I am super excited to be presenting at [NetSciX](https://netscix2026.github.io/){:target="_blank"} in Auckland! I will be talking about some ongoing work on modelling slime moulds and brain organoids. 
+**February 17, 2026, Conference presentation:** I am very excited to be presenting at [NetSciX](https://netscix2026.github.io/){:target="_blank"} in Auckland. I will be speaking about ongoing work on modelling slime moulds and brain organoids.
 
 **November 4, 2025, New published paper:** Our paper [A bibliometric study on mathematical oncology: interdisciplinarity, internationality, collaboration and trending topics](https://link.springer.com/article/10.1007/s11538-025-01544-9){:target="_blank"} is now published in Bulletin of Mathematical Biology
 
