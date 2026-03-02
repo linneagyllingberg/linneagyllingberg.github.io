@@ -5,61 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-My research explores how biological systems learn, adapt, and make decisions through internal dynamics such as oscillations, feedback, and network interactions. I develop and analyze mathematical models using tools from dynamical systems, network theory, and agent-based approaches to study systems ranging from slime molds to brain organoids and to understand the principles of biological intelligence.
-In parallel, I’m interested in the philosophy of mathematical modeling and in how the scientific practice of mathematical biology shapes the kinds of questions we ask and the kinds of answers we allow.
+I am an applied mathematician studying how intelligence emerges in living systems. My research develops mechanistic models to explore how oscillations, feedback, and adaptive structure give rise to learning, coordination, and distributed information processing. By combining nonlinear dynamics, network theory, and computational modelling, I investigate mathematical principles underlying biological intelligence across evolutionary and developmental scales. A full list of publications is available on [my Google Scholar profile](https://scholar.google.com/citations?user=fH9RmrwAAAAJ&hl=en&oi=ao){:target="_blank"} and in my CV.
 
+## Non-neural and evolutionary perspectives on intelligence
+I study how intelligent, adaptive behaviour can emerge in living systems without neurons. Using slime moulds and related minimal systems as conceptual testbeds, I develop mechanistic models in which oscillations, biochemical feedback, and morphology jointly shape information processing and decision-making. My goal is to understand how distributed coordination and learning-like behaviour can arise from local physical interactions, and what this reveals about the evolutionary origins of cognition.
 
-## Minimal cognition and learning across biological systems
+## Neural and developmental perspectives on intelligence
+I also study how coordinated computation emerges in neural tissue. Using brain organoids as developmental model systems, I analyse how oscillations, network growth, and feedback give rise to structured activity and information flow. This work complements my evolutionary perspective by examining how intelligence reorganizes as neural circuits form.
 
-I develop mathematical models to explore how simple biological systems—both neural and non-neural—can exhibit learning-like behavior through internal dynamics such as oscillations, feedback, and adaptation. This line of research aims to understand the fundamental mechanisms underlying cognitive behaviour, from slime molds to brain organoids.
+## Collective behaviour and spatial modelling
+Many biological systems display large-scale coordination arising from local interactions. I use spatial models and nonlinear dynamics to analyse how feedback, coupling, and movement generate collective motion, pattern formation, and adaptive decision-making. This work established the conceptual foundation for my current research on biological intelligence, where similar principles operate across evolutionary and developmental contexts.
 
-### A minimal model of cognition based on oscillatory and current-based reinforcement processes
-Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential approach is to start by identifying models of basal cognition, which give an abstract representation of a range organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner. We identify connections between our model and basal cognition in biological systems and slime moulds, in particular, showing how oscillatory and problem-solving properties of these systems are captured by our model. 
-
-**Linnéa Gyllingberg**, Yu Tian, David J.T. Sumpter,
-*Journal of the Royal Society Interface*, 2025
-[link](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0402){: .btn--research}{:target="_blank"}
-![](/images/slime_network.png)
-
-### Non-neural pattern completion 
-In ongoing work, I’m developing a non-spiking, biologically inspired reservoir model that demonstrates pattern completion in non-neural systems. The system is inspired by *Physarum polycephalum* and uses adaptive weights and homeostatic regulation to anticipate periodic input patterns without a trained output layer.  
-This project is in collaboration with [Polyphony Bruna](https://pjbruna.github.io/){: .btn--research}{:target="_blank"}.
-
-### Brain organoid dynamics  
-In a new collaboration, I’m beginning to explore how brain organoids might display learning-like behavior during development, and how this relates to underlying network dynamics.
-
-
-
-
----
-
-## Collective behavior and spatial modelling
-
-Many biological systems display collective or spatially structured behaviour that emerges from local interactions and feedback. I use mathematical models to investigate how these interactions give rise to coordination, pattern formation, and decision-making across scales—from neural dynamics in fish shoals to ecological competition and growth.
-
-### Using neuronal models to capture burst and glide motion and leadership in fish
-While mathematical models, in particular self-propelled particle (SPP) models, capture many of the observed properties of large fish schools, they do not always capture the interactions of smaller shoals. Nor do these models tend to account for the observation that, when swimming alone or in smaller groups, many species of fish use intermittent locomotion, often referred to as burst and coast or burst and glide. We propose a model of social burst and glide motion by combining a well-studied model of neuronal dynamics, the FitzHugh-Nagumo model, with a model of fish motion.
-
-**Linnéa Gyllingberg**, Alex Szorkovszky, David J.T. Sumpter  
-*Journal of the Royal Society Interface*, 2023  
-[link](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0212){: .btn--research}{:target="_blank"}  
-![](/images/fishdynamics.png)
-
-### Finding analytical approximations for discrete, stochastic, individual-based models of ecology 
-We study an individual-based model of intra-specific interactions, inspired by the life cycle of many insects and microorganisms. We show that a mean-field approach is not enough to capture the complex spatial dynamics of ecological competition. Instead, we develop two approximations to capture this complexity: one based on coupling on a larger scale and one based on a very local scale.  
-
-**Linnéa Gyllingberg**, David J.T. Sumpter, Åke Brännström  
-*Mathematical Biosciences*, 2023  
-[link](https://www.sciencedirect.com/science/article/pii/S0025556423001244){: .btn--research}{:target="_blank"}  
-![](/images/approx_image.png)
-
----
-
-## Philosophical aspects of mathematical modelling
-Biological systems are complex systems. This statement is so often made, that it can obscure just how radical the consequences of complexity are for the life sciences. In the paper *The Lost Art of Matheamatical Modelling* we provide a critique of mathematical biology in light of rapid developments in modern machine learning. We argue that out of the three modelling activities --- (1) formulating models; (2) analysing models; and (3) fitting or comparing models to data --- inherent to mathematical biology, researchers currently focus too much on activity (2) at the cost of (1). This trend, we propose, can be reversed by realising that any given biological phenomena can be modelled in an infinite number of different ways, through the adoption of an open/pluralistic approach. We explain the open approach using fish locomotion as a case study and illustrate some of the pitfalls --- universalism, creating models of models, etc. --- that hinder mathematical biology. We then ask how we might rediscover a lost art: that of creative mathematical modelling. 
-
- **Linnéa Gyllingberg**, Abeba Birhane, David J.T. Sumpter,
-**The Lost Art of Mathematical Modelling**,
-*Mathematical Biosciences*,
-2023.\
-[link](https://doi.org/10.1016/j.mbs.2023.109033){: .btn--research}{:target="_blank"}
+## Modelling as a scientific practice
+I study biological intelligence through mathematical models, but I also ask what it means to do mathematical modelling of biological systems, how the complexity of biology shapes the kinds of explanations such models can provide, and how this should guide modelling practice. More broadly, I contribute to the foundations of mathematical modelling, how we choose abstractions, how we interpret them, and where the limits of mechanistic models lie. This includes work on modelling pluralism in mathematical biology and ongoing projects on the epistemology of network methods, arguing that structural descriptions can be informative without automatically amounting to mechanism. I am also interested in the science of science, using bibliometric and network approaches to understand the role of mathematical models in biology and how interdisciplinary fields such as mathematical biology evolve.
