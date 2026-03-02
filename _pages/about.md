@@ -20,6 +20,8 @@ My research focuses on developing and analysing mathematical models and methods 
 
 **March 1, 2026, Minisymposium organisation:** Together with [Sara Hamis](https://sarahamis.github.io/){:target="_blank"} (Uppsala University), I am organising the minisymposium *Meta-Perspectives on Mathematical Biology* at the [European Conference on Mathematical and Theoretical Biology (ECMTB 2026)](https://ecmtb2026.org/){:target="_blank"}. The session explores how mathematical biology shapes, and is shaped by, policy-making, education, scientific publishing, and inclusive science communication.
 
+**February 27, 2026, Rising Stars selection:** I am honoured and excited to have been selected as a Rising Star in Computational and Data Sciences and will participate in the 2026 [Rising Stars in Computational and Data Sciences Workshop](https://risingstars.oden.utexas.edu/){:target="_blank"} at the Santa Fe Institute on April 7–8.
+
 **February 23, 2026, Workshop presentation:** I presented our recent paper on the development of mathematical oncology as a field at the [Mathematics of Cancer: Open Mathematical Problems](https://www.ipam.ucla.edu/programs/workshops/mathematics-of-cancer-open-mathematical-problems/){:target="_blank"} workshop at the Institute for Pure and Applied Mathematics, analysing its structure, collaborations, and thematic evolution over the past 60 years.
 
 **February 17, 2026, Conference presentation:** I am super excited to be presenting at [NetSciX](https://netscix2026.github.io/){:target="_blank"} in Auckland! I will be talking about some ongoing work on modelling slime moulds and brain organoids. 
