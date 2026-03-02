@@ -86,7 +86,7 @@ author:
   location         : "Los Angeles, US"
   employer         : "Department of Mathematics, UCLA"
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=fH9RmrwAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,8 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "http://x.com/l_gyllingberg"
+  bluesky          : "https://bsky.app/profile/gyllingberg.bsky.social"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
