@@ -11,12 +11,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Fulbright Scholar and Postdoctoral Fellow in the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} at UCLA. My postdoctoral position at UCLA is generously supported by the [Knut and Alice Wallenberg Foundation's prestigious mathematics grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"}, awarded to promote cutting-edge research in mathematics. I hold a Ph.D. in Applied Mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.uu.se/en/department/mathematics/research/cim){:target="_blank"} in Sweden, where I was advised by [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
+I am a Fulbright Scholar and Postdoctoral Fellow in the [Department of Mathematics](https://ww3.math.ucla.edu/){:target="_blank"} in ]Mason Porter](https://www.math.ucla.edu/~mason/){:target="_blank"}'s group at UCLA. My postdoctoral position at UCLA is generously supported by the [Knut and Alice Wallenberg Foundation's prestigious mathematics grant](https://kaw.wallenberg.org/en/press/18-mathematicians-receive-research-funding){:target="_blank"}, awarded to promote cutting-edge research in mathematics. I hold a Ph.D. in Applied Mathematics from [Uppsala University](https://www.uu.se/en){:target="_blank"} within the [Centre for Interdisciplinary Mathematics](https://www.uu.se/en/department/mathematics/research/cim){:target="_blank"} in Sweden, where I was advised by [David Sumpter](https://www.katalog.uu.se/profile/?id=N7-525){:target="_blank"}.
 
 My research studies how intelligence emerges in living systems. I develop mathematical models to understand how oscillations, feedback, and adaptive structure give rise to learning, coordination, and distributed information processing across biological scales. Alongside technical modelling, I also work on foundational questions about what modelling can explain in complex biological systems and how modelling practice shapes scientific understanding.
 
 ---
 ## Latest research results and news
+
+**March 5, 2026, Invited talk:** I gave a talk at the Mathematics for Complex Biological Systems at UCSD. 
+
+**March 4, 2026, Panel discussion:** I participated as a panelist at the *Bites and Breakthroughs* event organized by the Undergraduate Interdisciplinary Research Association (UIRA) at UCLA, where I spoke with undergraduate students about research paths, interdisciplinary work, and careers in academia.
 
 **March 1, 2026, Minisymposium organisation:** Together with [Sara Hamis](https://sarahamis.github.io/){:target="_blank"} (Uppsala University), I am organising the minisymposium *Meta-Perspectives on Mathematical Biology* at the [European Conference on Mathematical and Theoretical Biology (ECMTB 2026)](https://ecmtb2026.org/){:target="_blank"}. The session explores how mathematical biology shapes, and is shaped by, policy-making, education, scientific publishing, and inclusive science communication.
 
