@@ -18,7 +18,7 @@ My research studies how intelligence emerges in living systems. I develop mathem
 ---
 ## Latest research results and news
 
-**March 5, 2026, Invited talk:** I gave a talk at the Mathematics for Complex Biological Systems at UCSD. 
+**March 5, 2026, Invited talk:** I gave a talk at the Mathematics for Complex Biological Systems Seminar at UCSD. 
 
 **March 4, 2026, Panel discussion:** I participated as a panelist at the *Bites and Breakthroughs* event organized by the Undergraduate Interdisciplinary Research Association (UIRA) at UCLA, where I spoke with undergraduate students about research paths, interdisciplinary work, and careers in academia.
 
