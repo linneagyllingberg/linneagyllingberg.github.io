@@ -18,6 +18,10 @@ My research studies how intelligence emerges in living systems. I develop mathem
 ---
 ## Latest research results and news
 
+**May 13, 2026, Workshop presentation:** I gave the talk "From Bayes and Darwin to Evolutionary Games: What Changes When Fitness Is Frequency-Dependent?" at the Evolutionary Game Theory Workshop at [NITMB](https://www.nitmb.org/evolutionary-games-workshop){:target="_blank"}
+
+**May 12, 2026, New preprint out:** Our preprint [Self-organizing physical and biochemical interactions explain diverse behaviours in *Physarum polycephalum*](https://www.biorxiv.org/content/10.64898/2026.05.07.723662v1){:target="_blank"} is up on biorXiv!
+
 **March 5, 2026, Invited talk:** I gave a talk at the Mathematics for Complex Biological Systems Seminar at UCSD. 
 
 **March 4, 2026, Panel discussion:** I participated as a panelist at the *Bites and Breakthroughs* event organized by the Undergraduate Interdisciplinary Research Association (UIRA) at UCLA, where I spoke with undergraduate students about research paths, interdisciplinary work, and careers in academia.
